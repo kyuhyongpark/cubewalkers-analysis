@@ -1,0 +1,13 @@
+L,	!Ge && Le && P
+P,	M
+B,	M
+Rm,	!(!R && A || !R && Am)
+M,	!R && !Rm && C
+Am,	!(!Lm && !L)
+A,	B && L
+C,	!Ge
+Lm,	!Ge && Le || !Ge && P && Lem
+R,	!Am && !A
+Ge,	Ge
+Le,	Le
+Lem,	Lem

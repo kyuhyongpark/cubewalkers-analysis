@@ -1,0 +1,101 @@
+creb,	rsk
+ikkg,	card11a && pkcth
+card11a,	card11 && bcl10 && malt1
+vav1,	!(!sh3bp2 && !xx || !zap70 && !xx)
+plcga,	vav1 && itk && !ccblp2 && zap70 && slp76 && plcgb
+lat,	zap70
+card11,	unknown_input
+tcrlig,	tcrlig_input
+lckp1,	!shp1 && !csk && lckr && cd45 && cd4
+fyn,	lckp1 && cd45 || tcrb && lckr
+fos,	erk
+sre,	!(!rac1p2 && !cdc42)
+hpk1,	lat
+bcl10,	unknown_input2
+mek,	raf
+rlk,	lckp1
+cam,	ca
+sh3bp2,	lat && zap70
+gadd45,	unknown_input
+jnk,	!(!mekk1 && !mkk4)
+bcat,	!gsk3
+ip3,	plcga
+ccblp1,	ccblr && zap70
+camk4,	cam
+shp1,	lckp1 && !erk
+sos,	grb2
+ccblr,	unknown_input
+rasgrp,	dag
+pip3,	!ship1 && pi3k && !pten
+itk,	pip3 && zap70 && slp76
+vav3,	sh3bp2
+bad,	!pkb
+ccblp2,	fyn && ccblr
+bclxl,	!bad
+akap79,	unknown_input2
+tcrb,	tcrlig && !ccblp1
+malt1,	unknown_input
+zap70,	!ccblp1 && abl && tcrp
+nfat,	calcin
+pkb,	pdk1
+gads,	lat
+nfkb,	!ikb
+lckp2,	tcrb && lckr
+rac1r,	unknown_input
+gsk3,	!pkb
+mekk1,	!(!hpk1 && !rac1p2 && !cdc42)
+cyc1,	!gsk3
+gap,	unknown_input3
+csk,	pag
+cre,	creb
+camk2,	cam
+calpr1,	unknown_input2
+p38,	!gadd45 && zap70
+rac1p1,	vav1 && rac1r
+pag,	fyn && !tcrb
+ikb,	!ikkab
+Dummy,	vav1 && itk && !ccblp2 && zap70 && slp76 && plcgb
+erk,	mek
+ship1,	unknown_input2
+pi3k,	lckp2 && !cblb || !cblb && xx
+p70s,	pdk1
+rsk,	erk
+dag,	plcga && !dgk
+dgk,	tcrb
+grb2,	lat
+abl,	!(!lckp1 && !fyn)
+calcin,	cam && !akap79 && !calpr1 && !cabin1
+raf,	ras
+p27k,	!pkb
+cabin1,	!camk4
+cblb,	!cd28
+tcrp,	lckp1 && tcrb || fyn && tcrb
+lckr,	lckr_input
+xx,	cd28
+mlk3,	!(!hpk1 && !rac1p1)
+slp76,	zap70 && gads && !gab2
+pkcth,	vav1 && dag && pdk1
+rac1p2,	vav3 && rac1r
+plcgb,	lat
+cdc42,	unknown_input2
+ikkab,	ikkg && camk2
+ca,	ip3
+cd28,	cd28_input
+ap1,	fos && jun
+jun,	jnk
+cd45,	unknown_input
+p21c,	!pkb
+pdk1,	pip3
+gab2,	lat && zap70 && gads || lat && zap70 && grb2
+ras,	sos && rasgrp && !gap
+fkhr,	!pkb
+pten,	unknown_input2
+mkk4,	!(!mekk1 && !mlk3)
+shp2,	gab2
+cd4,	cd4
+lckr_input,	lckr_input
+cd28_input,	cd28_input
+unknown_input,	unknown_input
+tcrlig_input,	tcrlig_input
+unknown_input3,	unknown_input3
+unknown_input2,	unknown_input2
