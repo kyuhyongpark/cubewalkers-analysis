@@ -1,0 +1,10 @@
+AKT1, !Ecadh & GF & WNT_pthw & !miRNA & !p53 | EMTreg & !Ecadh & WNT_pthw & !miRNA & !p53
+AKT2, EMTreg & !miRNA & !p53
+EMTreg, WNT_pthw & !miRNA & !p53 | EMTreg & !miRNA & !p53
+ERK_pthw, !AKT1 & GF | !AKT1 & EMTreg
+Ecadh, !AKT2 & !EMTreg
+GF, !Ecadh & GF | EMTreg & !Ecadh
+WNT_pthw, !AKT1 & !EMTreg & !Ecadh & !WNT_pthw & !miRNA & !p53 & !p63_73
+miRNA, !AKT1 & !AKT2 & !EMTreg & p63_73 | !AKT1 & !AKT2 & !EMTreg & p53
+p53, !AKT1 & !AKT2 & !EMTreg & !p63_73
+p63_73, !AKT1 & !AKT2 & !EMTreg & !p53

@@ -1,4 +1,5 @@
 # Get Hamming distance in time in both updates starting from perturbation of distance 1
+# for all models in the Cell Collective
 
 import cupy as cp
 import cubewalkers as cw
@@ -6,7 +7,7 @@ from cubewalkers.conversions import *
 from cana.datasets.bio import load_all_cell_collective_models
 
 WALKERS = 1000000
-N_threshold = 10
+N_threshold = 100
 T_synch = 3
 FILE_NAME = "hamming_distance_cell_coll.txt"
 
@@ -34,7 +35,7 @@ for net in nets:
     mymodel.n_walkers = WALKERS // N
     derrida_synch = cp.zeros((mymodel.n_time_steps+1))
     for node in mymodel.vardict:
-        di = mymodel.dynamical_impact(source_var=node,maskfunction=cw.update_schemes.synchronous)
+        di = mymodel.dynamical_impact(source_var=node,maskfunction=cw.update_schemes.synchronous,threads_per_block=(16,16))
         di = cp.sum(di, axis=1)
         derrida_synch += di
     derrida_synch /= N
@@ -49,7 +50,7 @@ for net in nets:
     mymodel.n_walkers = WALKERS // N
     derrida_asynch = cp.zeros((mymodel.n_time_steps+1))
     for node in mymodel.vardict:
-        di = mymodel.dynamical_impact(source_var=node,maskfunction=cw.update_schemes.asynchronous)
+        di = mymodel.dynamical_impact(source_var=node,maskfunction=cw.update_schemes.asynchronous,threads_per_block=(16,16))
         di = cp.sum(di, axis=1)
         derrida_asynch += di
     derrida_asynch /= N

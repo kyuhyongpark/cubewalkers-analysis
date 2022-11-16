@@ -30,7 +30,7 @@ for net in nets:
     print('synchronous')
     fp.write('synchronous\n')
     mymodel.n_walkers = WALKERS
-    derrida_synch = mymodel.derrida_coefficient()
+    derrida_synch = mymodel.derrida_coefficient(threads_per_block=(16,16))
     print(derrida_synch)
     fp.write(str(derrida_synch) +'\n')
 
@@ -41,7 +41,7 @@ for net in nets:
     mymodel.n_walkers = WALKERS // N
     derrida_asynch = cp.zeros((N+1))
     for node in mymodel.vardict:
-        di = mymodel.dynamical_impact(source_var=node,maskfunction=cw.update_schemes.asynchronous)
+        di = mymodel.dynamical_impact(source_var=node,maskfunction=cw.update_schemes.asynchronous,threads_per_block=(16,16))
         di = cp.sum(di, axis=1)
         derrida_asynch += di
     derrida_asynch /= N
