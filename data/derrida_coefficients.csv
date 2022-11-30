@@ -1,0 +1,74 @@
+Apoptosis Network,synchronous,1.004,asynchronous,1.035
+Arabidopsis thaliana Cell Cycle,synchronous,1.276,asynchronous,1.217
+Aurora Kinase A in Neuroblastoma,synchronous,1.052,asynchronous,1.062
+B bronchiseptica and T retortaeformis coinfection,synchronous,0.995,asynchronous,1.003
+B cell differentiation,synchronous,0.994,asynchronous,1.011
+BT474 Breast Cell Line Long-term ErbB Network,synchronous,0.944,asynchronous,0.924
+BT474 Breast Cell Line Short-term ErbB Network,synchronous,0.763,asynchronous,0.823
+Bordetella bronchiseptica,synchronous,1.011,asynchronous,0.99
+Bortezomib Responses in U266 Human Myeloma Cells,synchronous,0.981,asynchronous,1.004
+Budding Yeast Cell Cycle,synchronous,1.014,asynchronous,1.018
+Budding Yeast Cell Cycle 2009,synchronous,1.102,asynchronous,1.107
+CD4 T cell signaling,synchronous,0.975,asynchronous,0.978
+CD4+ T Cell Differentiation and Plasticity,synchronous,0.732,asynchronous,0.889
+CD4+ T cell Differentiation,synchronous,0.978,asynchronous,1.001
+Cardiac developmen,synchronous,0.993,asynchronous,0.999
+Cell Cycle Transcription by Coupled CDK and Network Oscillators,synchronous,0.938,asynchronous,0.879
+Cholesterol Regulatory Pathway,synchronous,0.992,asynchronous,0.99
+Colitis-associated colon cancer,synchronous,0.994,asynchronous,1.031
+Cortical Area Developmen,synchronous,0.797,asynchronous,0.932
+Death Receptor Signaling,synchronous,1.022,asynchronous,1.04
+Differentiation of T lymphocytes,synchronous,0.979,asynchronous,0.976
+EGFR & ErbB Signaling,synchronous,0.959,asynchronous,0.97
+FA BRCA pathway,synchronous,1.022,asynchronous,1.024
+FGF pathway of Drosophila Signalling Pathways,synchronous,0.982,asynchronous,0.978
+Fanconi anemia and checkpoint recovery,synchronous,0.977,asynchronous,0.97
+Glucose Repression Signaling 2009,synchronous,1.01,asynchronous,1.019
+Guard Cell Abscisic Acid Signaling,synchronous,1.005,asynchronous,1.016
+HCC1954 Breast Cell Line Long-term ErbB Network,synchronous,0.964,asynchronous,0.949
+HCC1954 Breast Cell Line Short-term ErbB Network,synchronous,0.78,asynchronous,0.845
+HGF Signaling in Keratinocytes,synchronous,0.985,asynchronous,0.988
+HH Pathway of Drosophila Signaling Pathways,synchronous,0.927,asynchronous,0.953
+HIV-1 interactions with T Cell Signalling Pathway,synchronous,0.965,asynchronous,0.916
+Human Gonadal Sex Determination,synchronous,1.049,asynchronous,1.044
+IGVH mutations in chronic lymphocytic leukemia,synchronous,0.956,asynchronous,0.964
+IL-1 Signaling,synchronous,0.932,asynchronous,0.959
+IL-6 Signalling,synchronous,0.916,asynchronous,0.921
+Influenza A Virus Replication Cycle,synchronous,0.903,asynchronous,0.918
+Iron acquisition and oxidative stress response in aspergillus fumigatus,synchronous,1.036,asynchronous,1.051
+Lac Operon,synchronous,0.997,asynchronous,1.001
+Lymphoid and myeloid cell specification and transdifferentiation,synchronous,1.026,asynchronous,1.051
+Lymphopoiesis Regulatory Network,synchronous,0.95,asynchronous,0.955
+MAPK Cancer Cell Fate Network,synchronous,1.007,asynchronous,1.017
+Mammalian Cell Cycle,synchronous,0.844,asynchronous,0.882
+Mammalian Cell Cycle 2006,synchronous,1.018,asynchronous,1.073
+Metabolic Interactions in the Gut Microbiome,synchronous,1.004,asynchronous,0.985
+Neurotransmitter Signaling Pathway,synchronous,0.983,asynchronous,0.974
+Oxidative Stress Pathway,synchronous,0.988,asynchronous,1.001
+PC12 Cell Differentiation,synchronous,0.932,asynchronous,0.901
+Predicting Variabilities in Cardiac Gene,synchronous,0.992,asynchronous,1.002
+Pro-inflammatory Tumor Microenvironment in Acute Lymphoblastic Leukemia,synchronous,0.97,asynchronous,0.984
+Processing of Spz Network from the Drosophila Signaling Pathway,synchronous,0.946,asynchronous,0.959
+Regulation of the L-arabinose operon of Escherichia coli,synchronous,1.036,asynchronous,1.017
+SKBR3 Breast Cell Line Long-term ErbB Network,synchronous,0.948,asynchronous,0.94
+SKBR3 Breast Cell Line Short-term ErbB Network,synchronous,0.782,asynchronous,0.852
+Senescence Associated Secretory Phenotype,synchronous,0.98,asynchronous,0.999
+Septation Initiation Network,synchronous,1.049,asynchronous,1.043
+Signal Transduction in Fibroblasts,synchronous,1.12,asynchronous,1.138
+Signaling Pathway for Butanol Production in Clostridium beijerinckii NRRL B-598,synchronous,0.968,asynchronous,0.985
+Signaling in Macrophage Activation,synchronous,0.979,asynchronous,0.976
+Stomatal Opening Model,synchronous,1.176,asynchronous,1.14
+T Cell Receptor Signaling,synchronous,0.965,asynchronous,0.941
+T cell differentiation,synchronous,1.024,asynchronous,1.023
+T-Cell Signaling 2006,synchronous,0.984,asynchronous,0.97
+T-LGL Survival Network 2008,synchronous,0.939,asynchronous,0.917
+T-LGL Survival Network 2011,synchronous,0.948,asynchronous,0.908
+T-LGL Survival Network 2011 Reduced Network,synchronous,1.02,asynchronous,0.928
+TOL Regulatory Network,synchronous,0.935,asynchronous,0.965
+Toll Pathway of Drosophila Signaling Pathway,synchronous,0.999,asynchronous,1.003
+Treatment of Castration-Resistant Prostate Cancer,synchronous,0.995,asynchronous,1.003
+Trichostrongylus retortaeformis,synchronous,1.001,asynchronous,1.036
+Tumour Cell Invasion and Migration,synchronous,0.725,asynchronous,0.905
+VEGF Pathway of Drosophila Signaling Pathway,synchronous,0.958,asynchronous,0.954
+Wg Pathway of Drosophila Signalling Pathways,synchronous,0.974,asynchronous,0.99
+Yeast Apoptosis,synchronous,0.941,asynchronous,0.939
