@@ -12,11 +12,11 @@ Budding Yeast Cell Cycle 2009,synchronous,1.115,asynchronous,1.119
 CD4 T cell signaling,synchronous,0.974,asynchronous,0.981
 CD4+ T Cell Differentiation and Plasticity,synchronous,0.724,asynchronous,0.891
 CD4+ T cell Differentiation,synchronous,0.982,asynchronous,0.99
-Cardiac developmen,synchronous,0.992,asynchronous,0.998
+Cardiac development,synchronous,0.992,asynchronous,0.998
 Cell Cycle Transcription by Coupled CDK and Network Oscillators,synchronous,0.948,asynchronous,0.887
 Cholesterol Regulatory Pathway,synchronous,0.998,asynchronous,0.991
 Colitis-associated colon cancer,synchronous,0.995,asynchronous,1.029
-Cortical Area Developmen,synchronous,0.802,asynchronous,0.938
+Cortical Area Development,synchronous,0.802,asynchronous,0.938
 Death Receptor Signaling,synchronous,1.028,asynchronous,1.044
 Differentiation of T lymphocytes,synchronous,0.978,asynchronous,0.982
 EGFR & ErbB Signaling,synchronous,0.955,asynchronous,0.966
