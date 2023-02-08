@@ -1,4 +1,4 @@
-# constant nodes from the original paper: AKAP12=PTEN=EGF=DUSP1=0, PAI-1=1
+# constant nodes from the original paper: AKAP12=PTEN=DUSP1=0, PAI-1=1
 EGR1,	Erk
 Elk1,	!(!JNK && !Erk)
 Mkk4,	!(!Mekk4 && !MLK3 && !Mekk1)
@@ -66,4 +66,4 @@ DUSP1,	0
 AKAP12,	0
 PAI_1,	1
 HGF,	HGF
-EGF,	0
+EGF,	EGF
