@@ -1,4 +1,5 @@
 # constraint from the original paper: Ae=1 & Aem=0 is not a valid combination
+# However, this combination already works like Ae=1 & Aem=1, hence modification in the rule is unnecessary.
 L,	!Ara_plus_ && Ara_
 C,	!Ge
 MT,	C && Ara_plus_

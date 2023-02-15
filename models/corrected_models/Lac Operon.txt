@@ -1,4 +1,5 @@
 # constraint from the original paper: Le=1 & Lem=0 is not a valid combination
+# However, this combination already works like Le=1 & Lem=1, hence modification in the rule is unnecessary.
 L,	!Ge && Le && P
 P,	M
 B,	M
