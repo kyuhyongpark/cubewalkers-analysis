@@ -33,22 +33,31 @@ def derrida_cell_coll(models, sync=True ,W=NUMBER_OF_WALKERS):
     return derrida_coefficients
 
 def sourceless_derrida(model,sync=True,W=NUMBER_OF_WALKERS):
-    if sync:
-        maskfunction = cw.update_schemes.synchronous
-        T = 1
-        model.n_walkers = W
-    else:
-        maskfunction = cw.update_schemes.asynchronous
-        T = model.n_variables
-        model.n_walkers = W // T
+    
+    # calculate number of non-source nodes to pick number of walkers per node
     n_ns = 0
-    di = 0
     for rule in StringIO(model.rules):
         varname, func = rule.split(',')
         func = func.strip()
         if varname == func:
             continue
         n_ns += 1
+    
+    if sync:
+        maskfunction = cw.update_schemes.synchronous
+        T = 1
+        model.n_walkers = W // n_ns
+    else:
+        maskfunction = cw.update_schemes.asynchronous
+        T = model.n_variables
+        model.n_walkers = W // n_ns
+    
+    di = 0
+    for rule in StringIO(model.rules):
+        varname, func = rule.split(',')
+        func = func.strip()
+        if varname == func:
+            continue
         di += cp.sum(
             model.dynamical_impact(
                 varname, 
@@ -90,7 +99,7 @@ total_models = len(sync_models)
 async_models = deepcopy(sync_models)
 
 dc_sync = derrida_cell_coll(sync_models,sync=True)
-dc_async = derrida_cell_coll(sync_models,sync=False)
+dc_async = derrida_cell_coll(async_models,sync=False)
 dcns_sync = derrida_cell_coll_sourceless(sync_models,sync=True)
 dcns_async = derrida_cell_coll_sourceless(async_models,sync=False)
 

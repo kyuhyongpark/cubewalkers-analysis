@@ -51,10 +51,10 @@ def simulate_model_coherence(models, sync, fuzzy, sourceless):
         if not DEBUG_USING_SHORT_TIME:
             timescale = 2*N
             T = N**2 + 5 * timescale
-            T_window = 5 * timescale
+            T_sample = 5 * timescale
         else:
             T = 10
-            T_window = 5
+            T_sample = 5
         
         model.n_time_steps = T
 
@@ -65,9 +65,9 @@ def simulate_model_coherence(models, sync, fuzzy, sourceless):
             maskfunction = cw.update_schemes.asynchronous
         
         if sourceless:
-            coherences[model_name] = sourceless_quasicoherence(model, T_window, maskfunction, fuzzy)
+            coherences[model_name] = sourceless_quasicoherence(model, T_sample, maskfunction, fuzzy)
         else:
-            coherences[model_name] = model.quasicoherence(T_sample=T_window,
+            coherences[model_name] = model.quasicoherence(T_sample=T_sample,
                                                       fuzzy_coherence=fuzzy,
                                                       maskfunction=maskfunction,
                                                       threads_per_block=GLOBAL_TPB)
