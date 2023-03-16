@@ -1,0 +1,75 @@
+model name, SFHDNS, AHFDNS
+Apoptosis Network,0.889575,0.987528
+Arabidopsis thaliana Cell Cycle,1.663554,1.147657
+Aurora Kinase A in Neuroblastoma,1.529255,0.996383
+B bronchiseptica and T retortaeformis coinfection,0.545872,0.996818
+B cell differentiation,0.230607,0.897901
+BT474 Breast Cell Line Long-term ErbB Network,0.28392,0.939234
+BT474 Breast Cell Line Short-term ErbB Network,0.114945,0.733396
+Bordetella bronchiseptica,0.393081,1.006822
+Bortezomib Responses in U266 Human Myeloma Cells,0.549636,0.986613
+Budding Yeast Cell Cycle,0.41097,0.94183
+Budding Yeast Cell Cycle 2009,1.529933,1.053867
+CD4 T cell signaling,0.209806,0.992071
+CD4+ T Cell Differentiation and Plasticity,0.324233,0.82936
+CD4+ T cell Differentiation,0.35107,0.969523
+Cardiac development,0.022431,0.906
+Cell Cycle Transcription by Coupled CDK and Network Oscillators,0.463467,0.904462
+Cholesterol Regulatory Pathway,0.516347,0.98996
+Colitis-associated colon cancer,2.043136,1.000857
+Cortical Area Development,0.7424,0.93888
+Death Receptor Signaling,0.994512,0.980957
+Differentiation of T lymphocytes,0.518111,0.962144
+EGFR & ErbB Signaling,0.256416,0.979845
+FA BRCA pathway,1.128131,1.00866
+FGF pathway of Drosophila Signalling Pathways,0.008149,0.911771
+Fanconi anemia and checkpoint recovery,0.182533,0.978672
+Glucose Repression Signaling 2009,0.046609,0.975168
+Guard Cell Abscisic Acid Signaling,0.66498,0.959742
+HCC1954 Breast Cell Line Long-term ErbB Network,0.360076,0.945992
+HCC1954 Breast Cell Line Short-term ErbB Network,0.121455,0.756131
+HGF Signaling in Keratinocytes,0.385699,0.992943
+HH Pathway of Drosophila Signaling Pathways,0.001833,0.857084
+HIV-1 interactions with T Cell Signalling Pathway,0.205106,0.993702
+Human Gonadal Sex Determination,1.494042,1.016383
+IGVH mutations in chronic lymphocytic leukemia,0.039058,0.976019
+IL-1 Signaling,0.141318,0.986611
+IL-6 Signalling,0.248977,0.979439
+Influenza A Virus Replication Cycle,0.1115,0.990191
+Iron acquisition and oxidative stress response in aspergillus fumigatus,1.396136,0.998856
+Lac Operon,0.09944,0.855648
+Lymphoid and myeloid cell specification and transdifferentiation,0.604382,1.000165
+Lymphopoiesis Regulatory Network,0.306943,0.977243
+MAPK Cancer Cell Fate Network,0.454082,0.993176
+Mammalian Cell Cycle,0.044762,0.879133
+Mammalian Cell Cycle 2006,0.437973,1.009973
+Metabolic Interactions in the Gut Microbiome,0.28285,0.67784
+Neurotransmitter Signaling Pathway,0.257509,0.958794
+Oxidative Stress Pathway,0.646667,0.9738
+PC12 Cell Differentiation,0.324683,0.988788
+Predicting Variabilities in Cardiac Gene,0.0216,0.912708
+Pro-inflammatory Tumor Microenvironment in Acute Lymphoblastic Leukemia,0.35972,0.96358
+Processing of Spz Network from the Drosophila Signaling Pathway,0.002218,0.863036
+Regulation of the L-arabinose operon of Escherichia coli,0.048604,0.803804
+SKBR3 Breast Cell Line Long-term ErbB Network,0.222899,0.947017
+SKBR3 Breast Cell Line Short-term ErbB Network,0.202255,0.785156
+Senescence Associated Secretory Phenotype,0.689623,0.985138
+Septation Initiation Network,0.411579,0.934758
+Signal Transduction in Fibroblasts,1.745972,1.004515
+Signaling Pathway for Butanol Production in Clostridium beijerinckii NRRL B-598,0.480894,0.977872
+Signaling in Macrophage Activation,0.034953,0.989405
+Stomatal Opening Model,0.108064,0.978736
+T Cell Receptor Signaling,0.106721,0.984075
+T cell differentiation,0.844392,0.949448
+T-Cell Signaling 2006,0.243959,0.98509
+T-LGL Survival Network 2008,0.104236,0.981784
+T-LGL Survival Network 2011,0.097081,0.984236
+T-LGL Survival Network 2011 Reduced Network,0.168733,0.985164
+TOL Regulatory Network,0.0,0.759486
+Toll Pathway of Drosophila Signaling Pathway,0.045013,0.867236
+Treatment of Castration-Resistant Prostate Cancer,0.011649,0.93676
+Trichostrongylus retortaeformis,0.767642,0.989386
+Tumour Cell Invasion and Migration,0.725019,0.938464
+VEGF Pathway of Drosophila Signaling Pathway,0.004848,0.881088
+Wg Pathway of Drosophila Signalling Pathways,0.0354,0.850867
+Yeast Apoptosis,0.025733,0.939712

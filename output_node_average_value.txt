@@ -1,0 +1,298 @@
+Simulating Model T-Cell Signaling 2006 (W=2500,T=2000,N=40). . .
+Progress: 1/74,  maximum difference: 0.00030000000000002247
+Simulating Model IL-1 Signaling (W=2500,T=15104,N=118). . .
+Progress: 2/74,  maximum difference: 0.0
+Simulating Model CD4 T cell signaling (W=2500,T=37224,N=188). . .
+Progress: 3/74,  maximum difference: 9.414893617021303e-05
+Simulating Model Death Receptor Signaling (W=2500,T=1064,N=28). . .
+Progress: 4/74,  maximum difference: 0.0005214285714285893
+Simulating Model Lymphopoiesis Regulatory Network (W=2500,T=7371,N=81). . .
+Progress: 5/74,  maximum difference: 0.0
+Simulating Model Lymphoid and myeloid cell specification and transdifferentiation (W=2500,T=1419,N=33). . .
+Progress: 6/74,  maximum difference: 0.0
+Simulating Model TOL Regulatory Network (W=2500,T=816,N=24). . .
+Progress: 7/74,  maximum difference: 0.0
+Simulating Model T-LGL Survival Network 2011 (W=2500,T=4200,N=60). . .
+Progress: 8/74,  maximum difference: 0.0
+Simulating Model HIV-1 interactions with T Cell Signalling Pathway (W=2500,T=20424,N=138). . .
+Progress: 9/74,  maximum difference: 0.0
+Simulating Model Oxidative Stress Pathway (W=2500,T=551,N=19). . .
+Progress: 10/74,         maximum difference: 0.008357894736842092
+Simulating Model BT474 Breast Cell Line Short-term ErbB Network (W=2500,T=416,N=16). . .
+Progress: 11/74,         maximum difference: 0.0
+Simulating Model Stomatal Opening Model (W=2500,T=2891,N=49). . .
+Progress: 12/74,         maximum difference: 0.0
+Simulating Model Septation Initiation Network (W=2500,T=1271,N=31). . .
+Progress: 13/74,         maximum difference: 0.0
+Simulating Model B cell differentiation (W=2500,T=704,N=22). . .
+Progress: 14/74,         maximum difference: 0.0
+Simulating Model PC12 Cell Differentiation (W=2500,T=4464,N=62). . .
+Progress: 15/74,         maximum difference: 0.0
+Simulating Model FGF pathway of Drosophila Signalling Pathways (W=2500,T=759,N=23). . .
+Progress: 16/74,         maximum difference: 0.0
+Simulating Model Fanconi anemia and checkpoint recovery (W=2500,T=375,N=15). . .
+Progress: 17/74,         maximum difference: 0.0
+Simulating Model Signal Transduction in Fibroblasts (W=2500,T=20711,N=139). . .
+Progress: 18/74,         maximum difference: 9.568345323743288e-05
+Simulating Model Aurora Kinase A in Neuroblastoma (W=2500,T=759,N=23). . .
+Progress: 19/74,         maximum difference: 0.0013869565217390356
+Simulating Model CD4+ T cell Differentiation (W=2500,T=1824,N=38). . .
+Progress: 20/74,         maximum difference: 8.947368421050039e-05
+Simulating Model MAPK Cancer Cell Fate Network (W=2500,T=3339,N=53). . .
+Progress: 21/74,         maximum difference: 0.0016962264150943152
+Simulating Model Treatment of Castration-Resistant Prostate Cancer (W=2500,T=2184,N=42). . .
+Progress: 22/74,         maximum difference: 0.0
+Simulating Model Cardiac developmen (W=2500,T=375,N=15). . .
+Progress: 23/74,         maximum difference: 0.0
+Simulating Model HGF Signaling in Keratinocytes (W=2500,T=5304,N=68). . .
+Progress: 24/74,         maximum difference: 6.029411764707504e-05
+Simulating Model T Cell Receptor Signaling (W=2500,T=11211,N=101). . .
+Progress: 25/74,         maximum difference: 0.00015247524752475677
+Simulating Model HCC1954 Breast Cell Line Short-term ErbB Network (W=2500,T=416,N=16). . .
+Progress: 26/74,         maximum difference: 0.0
+Simulating Model Cortical Area Developmen (W=2500,T=75,N=5). . .
+Progress: 27/74,         maximum difference: 0.0
+Simulating Model Mammalian Cell Cycle 2006 (W=2500,T=200,N=10). . .
+Progress: 28/74,         maximum difference: 0.017369999999999997
+Simulating Model Predicting Variabilities in Cardiac Gene (W=2500,T=375,N=15). . .
+Progress: 29/74,         maximum difference: 0.0
+Simulating Model Budding Yeast Cell Cycle (W=2500,T=600,N=20). . .
+Progress: 30/74,         maximum difference: 0.0018549999999999955
+Simulating Model Metabolic Interactions in the Gut Microbiome (W=2500,T=264,N=12). . .
+Progress: 31/74,         maximum difference: 0.0
+Simulating Model SKBR3 Breast Cell Line Short-term ErbB Network (W=2500,T=416,N=16). . .
+Progress: 32/74,         maximum difference: 0.0
+Simulating Model Wg Pathway of Drosophila Signalling Pathways (W=2500,T=936,N=26). . .
+Progress: 33/74,         maximum difference: 0.0
+Simulating Model FA BRCA pathway (W=2500,T=1064,N=28). . .
+Progress: 34/74,         maximum difference: 0.0
+Simulating Model Cell Cycle Transcription by Coupled CDK and Network Oscillators (W=2500,T=171,N=9). . .
+Progress: 35/74,         maximum difference: 0.003699999999999995
+Simulating Model T-LGL Survival Network 2008 (W=2500,T=4331,N=61). . .
+Progress: 36/74,         maximum difference: 1.6393442622949974e-06
+Simulating Model Toll Pathway of Drosophila Signaling Pathway (W=2500,T=231,N=11). . .
+Progress: 37/74,         maximum difference: 0.0
+Simulating Model Pro-inflammatory Tumor Microenvironment in Acute Lymphoblastic Leukemia (W=2500,T=936,N=26). . .
+Progress: 38/74,         maximum difference: 0.0
+Simulating Model Yeast Apoptosis (W=2500,T=6059,N=73). . .
+Progress: 39/74,         maximum difference: 0.0012328767123287454
+Simulating Model Budding Yeast Cell Cycle 2009 (W=2500,T=504,N=18). . .
+Progress: 40/74,         maximum difference: 0.03751111111111116
+Simulating Model Iron acquisition and oxidative stress response in aspergillus fumigatus (W=2500,T=704,N=22). . .
+Progress: 41/74,         maximum difference: 0.006299999999999917
+Simulating Model BT474 Breast Cell Line Long-term ErbB Network (W=2500,T=875,N=25). . .
+Progress: 42/74,         maximum difference: 0.0
+Simulating Model Bordetella bronchiseptica (W=2500,T=1419,N=33). . .
+Progress: 43/74,         maximum difference: 0.0
+Simulating Model B bronchiseptica and T retortaeformis coinfection (W=2500,T=3339,N=53). . .
+Progress: 44/74,         maximum difference: 0.0
+Simulating Model EGFR & ErbB Signaling (W=2500,T=11856,N=104). . .
+Progress: 45/74,         maximum difference: 0.00043173076923053166
+Simulating Model Processing of Spz Network from the Drosophila Signaling Pathway (W=2500,T=816,N=24). . .
+Progress: 46/74,         maximum difference: 0.0
+Simulating Model Colitis-associated colon cancer (W=2500,T=5600,N=70). . .
+Progress: 47/74,         maximum difference: 0.000500000000000056
+Simulating Model Guard Cell Abscisic Acid Signaling (W=2500,T=2376,N=44). . .
+Progress: 48/74,         maximum difference: 0.0006477272727273276
+Simulating Model IGVH mutations in chronic lymphocytic leukemia (W=2500,T=9191,N=91). . .
+Progress: 49/74,         maximum difference: 0.0
+Simulating Model HH Pathway of Drosophila Signaling Pathways (W=2500,T=816,N=24). . .
+Progress: 50/74,         maximum difference: 0.0
+Simulating Model Differentiation of T lymphocytes (W=2500,T=3000,N=50). . .
+Progress: 51/74,         maximum difference: 0.0
+Simulating Model Lac Operon (W=2500,T=299,N=13). . .
+Progress: 52/74,         maximum difference: 0.0
+Simulating Model Tumour Cell Invasion and Migration (W=2500,T=1344,N=32). . .
+Progress: 53/74,         maximum difference: 0.0
+Simulating Model Regulation of the L-arabinose operon of Escherichia coli (W=2500,T=299,N=13). . .
+Progress: 54/74,         maximum difference: 0.0
+Simulating Model Neurotransmitter Signaling Pathway (W=2500,T=416,N=16). . .
+Progress: 55/74,         maximum difference: 0.0
+Simulating Model SKBR3 Breast Cell Line Long-term ErbB Network (W=2500,T=875,N=25). . .
+Progress: 56/74,         maximum difference: 0.0
+Simulating Model Senescence Associated Secretory Phenotype (W=2500,T=3111,N=51). . .
+Progress: 57/74,         maximum difference: 0.0002450980392157964
+Simulating Model Mammalian Cell Cycle (W=2500,T=600,N=20). . .
+Progress: 58/74,         maximum difference: 0.0
+Simulating Model Signaling Pathway for Butanol Production in Clostridium beijerinckii NRRL B-598 (W=2500,T=5016,N=66). . .
+Progress: 59/74,         maximum difference: 0.00013787878787879793
+Simulating Model Cholesterol Regulatory Pathway (W=2500,T=1496,N=34). . .
+Progress: 60/74,         maximum difference: 0.0006000000000000172
+Simulating Model Glucose Repression Signaling 2009 (W=2500,T=6059,N=73). . .
+Progress: 61/74,         maximum difference: 9.589041095892092e-05
+Simulating Model IL-6 Signalling (W=2500,T=8256,N=86). . .
+Progress: 62/74,         maximum difference: 0.0003558139534883681
+Simulating Model VEGF Pathway of Drosophila Signaling Pathway (W=2500,T=504,N=18). . .
+Progress: 63/74,         maximum difference: 0.0
+Simulating Model Influenza A Virus Replication Cycle (W=2500,T=18471,N=131). . .
+Progress: 64/74,         maximum difference: 0.0
+Simulating Model T-LGL Survival Network 2011 Reduced Network (W=2500,T=504,N=18). . .
+Progress: 65/74,         maximum difference: 0.0
+Simulating Model T cell differentiation (W=2500,T=759,N=23). . .
+Progress: 66/74,         maximum difference: 0.0
+Simulating Model Signaling in Macrophage Activation (W=2500,T=106251,N=321). . .
+Progress: 67/74,         maximum difference: 9.034267912766403e-06
+Simulating Model Trichostrongylus retortaeformis (W=2500,T=936,N=26). . .
+Progress: 68/74,         maximum difference: 0.0
+Simulating Model HCC1954 Breast Cell Line Long-term ErbB Network (W=2500,T=875,N=25). . .
+Progress: 69/74,         maximum difference: 0.0
+Simulating Model Human Gonadal Sex Determination (W=2500,T=551,N=19). . .
+Progress: 70/74,         maximum difference: 0.0
+Simulating Model CD4+ T Cell Differentiation and Plasticity (W=2500,T=504,N=18). . .
+Progress: 71/74,         maximum difference: 0.0
+Simulating Model Bortezomib Responses in U266 Human Myeloma Cells (W=2500,T=5159,N=67). . .
+Progress: 72/74,         maximum difference: 0.0
+Simulating Model Arabidopsis thaliana Cell Cycle (W=2500,T=336,N=14). . .
+Progress: 73/74,         maximum difference: 0.012121428571428616
+Simulating Model Apoptosis Network (W=2500,T=2091,N=41). . .
+Progress: 74/74,         maximum difference: 0.0009804878048780274
+Simulating Model T-Cell Signaling 2006 (W=2500,T=2000,N=40). . .
+Progress: 1/74,  maximum difference: 0.004282499999999998
+Simulating Model IL-1 Signaling (W=2500,T=15104,N=118). . .
+Progress: 2/74,  maximum difference: 0.0
+Simulating Model CD4 T cell signaling (W=2500,T=37224,N=188). . .
+Progress: 3/74,  maximum difference: 0.0
+Simulating Model Death Receptor Signaling (W=2500,T=1064,N=28). . .
+Progress: 4/74,  maximum difference: 0.00023214285714290295
+Simulating Model Lymphopoiesis Regulatory Network (W=2500,T=7371,N=81). . .
+Progress: 5/74,  maximum difference: 0.0
+Simulating Model Lymphoid and myeloid cell specification and transdifferentiation (W=2500,T=1419,N=33). . .
+Progress: 6/74,  maximum difference: 0.0
+Simulating Model TOL Regulatory Network (W=2500,T=816,N=24). . .
+Progress: 7/74,  maximum difference: 0.0
+Simulating Model T-LGL Survival Network 2011 (W=2500,T=4200,N=60). . .
+Progress: 8/74,  maximum difference: 0.0016433333333333335
+Simulating Model HIV-1 interactions with T Cell Signalling Pathway (W=2500,T=20424,N=138). . .
+Progress: 9/74,  maximum difference: 0.0
+Simulating Model Oxidative Stress Pathway (W=2500,T=551,N=19). . .
+Progress: 10/74,         maximum difference: 0.012926315789473675
+Simulating Model BT474 Breast Cell Line Short-term ErbB Network (W=2500,T=416,N=16). . .
+Progress: 11/74,         maximum difference: 0.0
+Simulating Model Stomatal Opening Model (W=2500,T=2891,N=49). . .
+Progress: 12/74,         maximum difference: 0.009953061224489912
+Simulating Model Septation Initiation Network (W=2500,T=1271,N=31). . .
+Progress: 13/74,         maximum difference: 0.00022903225806469862
+Simulating Model B cell differentiation (W=2500,T=704,N=22). . .
+Progress: 14/74,         maximum difference: 0.0
+Simulating Model PC12 Cell Differentiation (W=2500,T=4464,N=62). . .
+Progress: 15/74,         maximum difference: 0.0
+Simulating Model FGF pathway of Drosophila Signalling Pathways (W=2500,T=759,N=23). . .
+Progress: 16/74,         maximum difference: 0.0
+Simulating Model Fanconi anemia and checkpoint recovery (W=2500,T=375,N=15). . .
+Progress: 17/74,         maximum difference: 0.019426666666666665
+Simulating Model Signal Transduction in Fibroblasts (W=2500,T=20711,N=139). . .
+Progress: 18/74,         maximum difference: 0.018732374100719373
+Simulating Model Aurora Kinase A in Neuroblastoma (W=2500,T=759,N=23). . .
+Progress: 19/74,         maximum difference: 0.011956521739130394
+Simulating Model CD4+ T cell Differentiation (W=2500,T=1824,N=38). . .
+Progress: 20/74,         maximum difference: 0.0032394736842106253
+Simulating Model MAPK Cancer Cell Fate Network (W=2500,T=3339,N=53). . .
+Progress: 21/74,         maximum difference: 0.006190566037735906
+Simulating Model Treatment of Castration-Resistant Prostate Cancer (W=2500,T=2184,N=42). . .
+Progress: 22/74,         maximum difference: 0.0
+Simulating Model Cardiac developmen (W=2500,T=375,N=15). . .
+Progress: 23/74,         maximum difference: 0.00039999999999995595
+Simulating Model HGF Signaling in Keratinocytes (W=2500,T=5304,N=68). . .
+Progress: 24/74,         maximum difference: 0.0007647058823529451
+Simulating Model T Cell Receptor Signaling (W=2500,T=11211,N=101). . .
+Progress: 25/74,         maximum difference: 0.006231683168316959
+Simulating Model HCC1954 Breast Cell Line Short-term ErbB Network (W=2500,T=416,N=16). . .
+Progress: 26/74,         maximum difference: 0.0
+Simulating Model Cortical Area Developmen (W=2500,T=75,N=5). . .
+Progress: 27/74,         maximum difference: 0.013999999999999901
+Simulating Model Mammalian Cell Cycle 2006 (W=2500,T=200,N=10). . .
+Progress: 28/74,         maximum difference: 0.03352999999999995
+Simulating Model Predicting Variabilities in Cardiac Gene (W=2500,T=375,N=15). . .
+Progress: 29/74,         maximum difference: 0.00023999999999990695
+Simulating Model Budding Yeast Cell Cycle (W=2500,T=600,N=20). . .
+Progress: 30/74,         maximum difference: 0.0049199999999999244
+Simulating Model Metabolic Interactions in the Gut Microbiome (W=2500,T=264,N=12). . .
+Progress: 31/74,         maximum difference: 0.0
+Simulating Model SKBR3 Breast Cell Line Short-term ErbB Network (W=2500,T=416,N=16). . .
+Progress: 32/74,         maximum difference: 0.0
+Simulating Model Wg Pathway of Drosophila Signalling Pathways (W=2500,T=936,N=26). . .
+Progress: 33/74,         maximum difference: 0.004176923076923078
+Simulating Model FA BRCA pathway (W=2500,T=1064,N=28). . .
+Progress: 34/74,         maximum difference: 0.025017857142857144
+Simulating Model Cell Cycle Transcription by Coupled CDK and Network Oscillators (W=2500,T=171,N=9). . .
+Progress: 35/74,         maximum difference: 0.003311111111111111
+Simulating Model T-LGL Survival Network 2008 (W=2500,T=4331,N=61). . .
+Progress: 36/74,         maximum difference: 0.0029737704918032775
+Simulating Model Toll Pathway of Drosophila Signaling Pathway (W=2500,T=231,N=11). . .
+Progress: 37/74,         maximum difference: 0.006127272727272759
+Simulating Model Pro-inflammatory Tumor Microenvironment in Acute Lymphoblastic Leukemia (W=2500,T=936,N=26). . .
+Progress: 38/74,         maximum difference: 0.0031500000000000417
+Simulating Model Yeast Apoptosis (W=2500,T=6059,N=73). . .
+Progress: 39/74,         maximum difference: 0.009319178082191848
+Simulating Model Budding Yeast Cell Cycle 2009 (W=2500,T=504,N=18). . .
+Progress: 40/74,         maximum difference: 0.031938888888888906
+Simulating Model Iron acquisition and oxidative stress response in aspergillus fumigatus (W=2500,T=704,N=22). . .
+Progress: 41/74,         maximum difference: 0.027886363636363654
+Simulating Model BT474 Breast Cell Line Long-term ErbB Network (W=2500,T=875,N=25). . .
+Progress: 42/74,         maximum difference: 0.0
+Simulating Model Bordetella bronchiseptica (W=2500,T=1419,N=33). . .
+Progress: 43/74,         maximum difference: 0.005193939393939395
+Simulating Model B bronchiseptica and T retortaeformis coinfection (W=2500,T=3339,N=53). . .
+Progress: 44/74,         maximum difference: 0.0
+Simulating Model EGFR & ErbB Signaling (W=2500,T=11856,N=104). . .
+Progress: 45/74,         maximum difference: 0.006550000000000028
+Simulating Model Processing of Spz Network from the Drosophila Signaling Pathway (W=2500,T=816,N=24). . .
+Progress: 46/74,         maximum difference: 0.0
+Simulating Model Colitis-associated colon cancer (W=2500,T=5600,N=70). . .
+Progress: 47/74,         maximum difference: 0.014402857142857384
+Simulating Model Guard Cell Abscisic Acid Signaling (W=2500,T=2376,N=44). . .
+Progress: 48/74,         maximum difference: 0.008361363636363639
+Simulating Model IGVH mutations in chronic lymphocytic leukemia (W=2500,T=9191,N=91). . .
+Progress: 49/74,         maximum difference: 0.004251648351648346
+Simulating Model HH Pathway of Drosophila Signaling Pathways (W=2500,T=816,N=24). . .
+Progress: 50/74,         maximum difference: 0.0
+Simulating Model Differentiation of T lymphocytes (W=2500,T=3000,N=50). . .
+Progress: 51/74,         maximum difference: 0.0
+Simulating Model Lac Operon (W=2500,T=299,N=13). . .
+Progress: 52/74,         maximum difference: 0.002284615384615385
+Simulating Model Tumour Cell Invasion and Migration (W=2500,T=1344,N=32). . .
+Progress: 53/74,         maximum difference: 0.0007999999999999674
+Simulating Model Regulation of the L-arabinose operon of Escherichia coli (W=2500,T=299,N=13). . .
+Progress: 54/74,         maximum difference: 4.615384615380691e-05
+Simulating Model Neurotransmitter Signaling Pathway (W=2500,T=416,N=16). . .
+Progress: 55/74,         maximum difference: 0.012725000000000042
+Simulating Model SKBR3 Breast Cell Line Long-term ErbB Network (W=2500,T=875,N=25). . .
+Progress: 56/74,         maximum difference: 0.0
+Simulating Model Senescence Associated Secretory Phenotype (W=2500,T=3111,N=51). . .
+Progress: 57/74,         maximum difference: 0.011915686274510007
+Simulating Model Mammalian Cell Cycle (W=2500,T=600,N=20). . .
+Progress: 58/74,         maximum difference: 0.0
+Simulating Model Signaling Pathway for Butanol Production in Clostridium beijerinckii NRRL B-598 (W=2500,T=5016,N=66). . .
+Progress: 59/74,         maximum difference: 0.009448484848484831
+Simulating Model Cholesterol Regulatory Pathway (W=2500,T=1496,N=34). . .
+Progress: 60/74,         maximum difference: 0.005149999999999988
+Simulating Model Glucose Repression Signaling 2009 (W=2500,T=6059,N=73). . .
+Progress: 61/74,         maximum difference: 0.0
+Simulating Model IL-6 Signalling (W=2500,T=8256,N=86). . .
+Progress: 62/74,         maximum difference: 0.007852325581395363
+Simulating Model VEGF Pathway of Drosophila Signaling Pathway (W=2500,T=504,N=18). . .
+Progress: 63/74,         maximum difference: 0.0
+Simulating Model Influenza A Virus Replication Cycle (W=2500,T=18471,N=131). . .
+Progress: 64/74,         maximum difference: 0.0005351145038167962
+Simulating Model T-LGL Survival Network 2011 Reduced Network (W=2500,T=504,N=18). . .
+Progress: 65/74,         maximum difference: 0.00626666666666667
+Simulating Model T cell differentiation (W=2500,T=759,N=23). . .
+Progress: 66/74,         maximum difference: 0.00029565217391314125
+Simulating Model Signaling in Macrophage Activation (W=2500,T=106251,N=321). . .
+Progress: 67/74,         maximum difference: 0.00691214953270991
+Simulating Model Trichostrongylus retortaeformis (W=2500,T=936,N=26). . .
+Progress: 68/74,         maximum difference: 0.007699999999999985
+Simulating Model HCC1954 Breast Cell Line Long-term ErbB Network (W=2500,T=875,N=25). . .
+Progress: 69/74,         maximum difference: 0.0
+Simulating Model Human Gonadal Sex Determination (W=2500,T=551,N=19). . .
+Progress: 70/74,         maximum difference: 0.0
+Simulating Model CD4+ T Cell Differentiation and Plasticity (W=2500,T=504,N=18). . .
+Progress: 71/74,         maximum difference: 0.0
+Simulating Model Bortezomib Responses in U266 Human Myeloma Cells (W=2500,T=5159,N=67). . .
+Progress: 72/74,         maximum difference: 0.0
+Simulating Model Arabidopsis thaliana Cell Cycle (W=2500,T=336,N=14). . .
+Progress: 73/74,         maximum difference: 0.012771428571428545
+Simulating Model Apoptosis Network (W=2500,T=2091,N=41). . .
+Progress: 74/74,         maximum difference: 0.018446341463414645
+0.03751111111111116
+0.03352999999999995
