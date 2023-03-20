@@ -1,75 +1,75 @@
 model name, SQCNS, AQCNS
-Apoptosis Network,0.802359,0.130974
-Arabidopsis thaliana Cell Cycle,0.690657,0.290429
-Aurora Kinase A in Neuroblastoma,0.731874,0.214484
-B bronchiseptica and T retortaeformis coinfection,0.851431,0.098369
-B cell differentiation,0.952941,0.226659
-BT474 Breast Cell Line Long-term ErbB Network,0.815095,0.153284
-BT474 Breast Cell Line Short-term ErbB Network,0.932218,0.2712
-Bordetella bronchiseptica,0.911733,0.149164
-Bortezomib Responses in U266 Human Myeloma Cells,0.809587,0.0836
-Budding Yeast Cell Cycle,0.8517,0.237225
-Budding Yeast Cell Cycle 2009,0.677489,0.235867
-CD4 T cell signaling,0.918343,0.031335
-CD4+ T Cell Differentiation and Plasticity,0.871333,0.253733
-CD4+ T cell Differentiation,0.857324,0.135931
-Cardiac development,0.992523,0.302985
-Cell Cycle Transcription by Coupled CDK and Network Oscillators,0.820533,0.4212
-Cholesterol Regulatory Pathway,0.807925,0.151825
-Colitis-associated colon cancer,0.667386,0.079722
-Cortical Area Development,0.85152,0.55024
-Death Receptor Signaling,0.736032,0.18
-Differentiation of T lymphocytes,0.876576,0.109941
-EGFR & ErbB Signaling,0.921758,0.054947
-FA BRCA pathway,0.8236,0.173057
-FGF pathway of Drosophila Signalling Pathways,0.9888,0.214743
-Fanconi anemia and checkpoint recovery,0.984347,0.292533
-Glucose Repression Signaling 2009,0.981375,0.077425
-Guard Cell Abscisic Acid Signaling,0.88801,0.12306
-HCC1954 Breast Cell Line Long-term ErbB Network,0.830505,0.156926
-HCC1954 Breast Cell Line Short-term ErbB Network,0.934509,0.260982
-HGF Signaling in Keratinocytes,0.900774,0.082342
-HH Pathway of Drosophila Signaling Pathways,0.990982,0.212982
-HIV-1 interactions with T Cell Signalling Pathway,0.962987,0.042084
-Human Gonadal Sex Determination,0.861389,0.245916
-IGVH mutations in chronic lymphocytic leukemia,0.974758,0.063727
-IL-1 Signaling,0.942054,0.049265
-IL-6 Signalling,0.918394,0.067792
-Influenza A Virus Replication Cycle,0.95458,0.044533
-Iron acquisition and oxidative stress response in aspergillus fumigatus,0.85282,0.22424
-Lac Operon,0.92116,0.33972
-Lymphoid and myeloid cell specification and transdifferentiation,0.833819,0.15369
-Lymphopoiesis Regulatory Network,0.942436,0.070245
-MAPK Cancer Cell Fate Network,0.859959,0.104522
-Mammalian Cell Cycle,0.938947,0.243747
-Mammalian Cell Cycle 2006,0.956222,0.364311
-Metabolic Interactions in the Gut Microbiome,0.88025,0.34865
-Neurotransmitter Signaling Pathway,1.0,0.285029
-Oxidative Stress Pathway,0.901889,0.244689
-PC12 Cell Differentiation,0.852885,0.089633
-Predicting Variabilities in Cardiac Gene,0.9928,0.300708
-Pro-inflammatory Tumor Microenvironment in Acute Lymphoblastic Leukemia,0.928217,0.1911
-Processing of Spz Network from the Drosophila Signaling Pathway,0.988911,0.213822
-Regulation of the L-arabinose operon of Escherichia coli,0.994933,0.341956
-SKBR3 Breast Cell Line Long-term ErbB Network,0.859657,0.159467
-SKBR3 Breast Cell Line Short-term ErbB Network,0.893018,0.253273
-Senescence Associated Secretory Phenotype,0.768449,0.10511
-Septation Initiation Network,0.853843,0.1708
-Signal Transduction in Fibroblasts,0.802695,0.038332
-Signaling Pathway for Butanol Production in Clostridium beijerinckii NRRL B-598,0.952694,0.084226
-Signaling in Macrophage Activation,0.976098,0.018417
-Stomatal Opening Model,0.919718,0.110191
-T Cell Receptor Signaling,0.941094,0.056979
-T cell differentiation,0.828611,0.210442
-T-Cell Signaling 2006,0.87253,0.133395
-T-LGL Survival Network 2008,0.987119,0.09123
-T-LGL Survival Network 2011,0.987674,0.09243
-T-LGL Survival Network 2011 Reduced Network,0.982889,0.258578
-TOL Regulatory Network,1.0,0.220971
-Toll Pathway of Drosophila Signaling Pathway,0.915778,0.375956
-Treatment of Castration-Resistant Prostate Cancer,0.978843,0.130129
-Trichostrongylus retortaeformis,0.784736,0.185856
-Tumour Cell Invasion and Migration,0.908387,0.16284
-VEGF Pathway of Drosophila Signaling Pathway,0.99428,0.26536
-Wg Pathway of Drosophila Signalling Pathways,1.0,0.202367
-Yeast Apoptosis,0.999433,0.07808
+Apoptosis Network,0.948164,0.948421
+Arabidopsis thaliana Cell Cycle,1.0,0.917571
+Aurora Kinase A in Neuroblastoma,0.922063,0.9308
+B bronchiseptica and T retortaeformis coinfection,0.930038,0.942385
+B cell differentiation,0.951271,0.956259
+BT474 Breast Cell Line Long-term ErbB Network,0.817937,0.796211
+BT474 Breast Cell Line Short-term ErbB Network,0.931164,0.877127
+Bordetella bronchiseptica,0.971212,0.964376
+Bortezomib Responses in U266 Human Myeloma Cells,0.999252,0.99471
+Budding Yeast Cell Cycle,0.899675,0.96955
+Budding Yeast Cell Cycle 2009,1.0,0.924067
+CD4 T cell signaling,0.973421,0.976527
+CD4+ T Cell Differentiation and Plasticity,0.8682,0.850067
+CD4+ T cell Differentiation,0.915117,0.923834
+Cardiac development,0.992246,0.959538
+Cell Cycle Transcription by Coupled CDK and Network Oscillators,0.814978,0.990533
+Cholesterol Regulatory Pathway,0.976538,0.996712
+Colitis-associated colon cancer,0.935814,0.947159
+Cortical Area Development,0.85384,0.79472
+Death Receptor Signaling,0.883152,0.917136
+Differentiation of T lymphocytes,0.934459,0.955454
+EGFR & ErbB Signaling,0.993405,0.999495
+FA BRCA pathway,1.0,0.9864
+FGF pathway of Drosophila Signalling Pathways,1.0,1.0
+Fanconi anemia and checkpoint recovery,1.0,0.974987
+Glucose Repression Signaling 2009,0.990451,0.993825
+Guard Cell Abscisic Acid Signaling,0.93463,0.97931
+HCC1954 Breast Cell Line Long-term ErbB Network,0.830674,0.835516
+HCC1954 Breast Cell Line Short-term ErbB Network,0.935127,0.866982
+HGF Signaling in Keratinocytes,0.999761,0.998774
+HH Pathway of Drosophila Signaling Pathways,1.0,1.0
+HIV-1 interactions with T Cell Signalling Pathway,0.982658,0.990681
+Human Gonadal Sex Determination,0.901116,0.913537
+IGVH mutations in chronic lymphocytic leukemia,1.0,0.999909
+IL-1 Signaling,1.0,1.0
+IL-6 Signalling,0.995375,0.999544
+Influenza A Virus Replication Cycle,1.0,0.999527
+Iron acquisition and oxidative stress response in aspergillus fumigatus,1.0,0.97358
+Lac Operon,0.99684,0.98672
+Lymphoid and myeloid cell specification and transdifferentiation,0.963768,0.933123
+Lymphopoiesis Regulatory Network,0.965296,0.97526
+MAPK Cancer Cell Fate Network,0.993045,0.995429
+Mammalian Cell Cycle,0.998779,0.984695
+Mammalian Cell Cycle 2006,1.0,0.934933
+Metabolic Interactions in the Gut Microbiome,0.8839,0.88375
+Neurotransmitter Signaling Pathway,1.0,0.968686
+Oxidative Stress Pathway,1.0,0.977556
+PC12 Cell Differentiation,1.0,0.999764
+Predicting Variabilities in Cardiac Gene,0.992308,0.961508
+Pro-inflammatory Tumor Microenvironment in Acute Lymphoblastic Leukemia,0.963883,0.999167
+Processing of Spz Network from the Drosophila Signaling Pathway,1.0,1.0
+Regulation of the L-arabinose operon of Escherichia coli,0.993822,0.993111
+SKBR3 Breast Cell Line Long-term ErbB Network,0.8744,0.839905
+SKBR3 Breast Cell Line Short-term ErbB Network,0.8948,0.788255
+Senescence Associated Secretory Phenotype,0.976016,0.976122
+Septation Initiation Network,0.903565,0.940748
+Signal Transduction in Fibroblasts,0.914634,0.945849
+Signaling Pathway for Butanol Production in Clostridium beijerinckii NRRL B-598,0.974672,0.998725
+Signaling in Macrophage Activation,0.99994,0.999717
+Stomatal Opening Model,0.979455,0.983518
+T Cell Receptor Signaling,0.997353,0.999945
+T cell differentiation,0.918758,0.934674
+T-Cell Signaling 2006,0.9988,0.996476
+T-LGL Survival Network 2008,0.99937,0.992267
+T-LGL Survival Network 2011,0.999541,0.994763
+T-LGL Survival Network 2011 Reduced Network,0.983689,0.955844
+TOL Regulatory Network,1.0,1.0
+Toll Pathway of Drosophila Signaling Pathway,1.0,0.991289
+Treatment of Castration-Resistant Prostate Cancer,1.0,1.0
+Trichostrongylus retortaeformis,0.879856,0.916288
+Tumour Cell Invasion and Migration,0.941947,0.956893
+VEGF Pathway of Drosophila Signaling Pathway,1.0,0.99992
+Wg Pathway of Drosophila Signalling Pathways,1.0,0.999967
+Yeast Apoptosis,0.999567,0.99952
