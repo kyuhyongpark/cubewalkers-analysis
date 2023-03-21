@@ -1,0 +1,2 @@
+this was run with T_w = 10N and T = N*N + 10N using W=2500 (per perturbed node, for a 2500N walkers for each network)
+some outputs were rounded
