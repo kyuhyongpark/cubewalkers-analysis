@@ -1,0 +1,75 @@
+model name, SFQC, AFQC
+Apoptosis Network,0.975734,0.976564
+Arabidopsis thaliana Cell Cycle,0.999913,0.999924
+Aurora Kinase A in Neuroblastoma,0.943288,0.941871
+B bronchiseptica and T retortaeformis coinfection,0.991302,0.988368
+B cell differentiation,0.957846,0.955954
+BT474 Breast Cell Line Long-term ErbB Network,0.973295,0.971707
+BT474 Breast Cell Line Short-term ErbB Network,0.96438,0.958502
+Bordetella bronchiseptica,0.993765,0.99855
+Bortezomib Responses in U266 Human Myeloma Cells,0.99163,0.988959
+Budding Yeast Cell Cycle,0.952011,0.953503
+Budding Yeast Cell Cycle 2009,0.999961,0.999982
+CD4 T cell signaling,0.994608,0.994748
+CD4+ T Cell Differentiation and Plasticity,0.949423,0.94744
+CD4+ T cell Differentiation,0.973967,0.973853
+Cardiac development,0.940772,0.933232
+Cell Cycle Transcription by Coupled CDK and Network Oscillators,0.955033,1.0
+Cholesterol Regulatory Pathway,0.972592,0.976607
+Colitis-associated colon cancer,0.983802,0.978163
+Cortical Area Development,0.84936,0.81384
+Death Receptor Signaling,0.957573,0.952403
+Differentiation of T lymphocytes,0.980317,0.982887
+EGFR & ErbB Signaling,0.991654,0.99188
+FA BRCA pathway,1.0,0.999867
+FGF pathway of Drosophila Signalling Pathways,0.96194,0.961574
+Fanconi anemia and checkpoint recovery,0.999998,0.999698
+Glucose Repression Signaling 2009,0.983802,0.983821
+Guard Cell Abscisic Acid Signaling,0.979046,0.983251
+HCC1954 Breast Cell Line Long-term ErbB Network,0.972745,0.971537
+HCC1954 Breast Cell Line Short-term ErbB Network,0.96372,0.958181
+HGF Signaling in Keratinocytes,0.984525,0.984758
+HH Pathway of Drosophila Signaling Pathways,0.960835,0.960876
+HIV-1 interactions with T Cell Signalling Pathway,0.99712,0.99721
+Human Gonadal Sex Determination,0.920961,0.937263
+IGVH mutations in chronic lymphocytic leukemia,0.99468,0.994686
+IL-1 Signaling,0.997648,0.997648
+IL-6 Signalling,0.993889,0.994218
+Influenza A Virus Replication Cycle,0.99858,0.998027
+Iron acquisition and oxidative stress response in aspergillus fumigatus,0.983452,0.982601
+Lac Operon,0.923359,0.91307
+Lymphoid and myeloid cell specification and transdifferentiation,0.995057,0.973094
+Lymphopoiesis Regulatory Network,0.990317,0.990998
+MAPK Cancer Cell Fate Network,0.984717,0.986033
+Mammalian Cell Cycle,0.979284,0.967674
+Mammalian Cell Cycle 2006,0.939983,0.940457
+Metabolic Interactions in the Gut Microbiome,0.924322,0.923589
+Neurotransmitter Signaling Pathway,0.978516,0.974454
+Oxidative Stress Pathway,0.971368,0.968619
+PC12 Cell Differentiation,0.998179,0.997801
+Predicting Variabilities in Cardiac Gene,0.94096,0.933301
+Pro-inflammatory Tumor Microenvironment in Acute Lymphoblastic Leukemia,0.969086,0.975553
+Processing of Spz Network from the Drosophila Signaling Pathway,0.960952,0.961328
+Regulation of the L-arabinose operon of Escherichia coli,0.922985,0.923408
+SKBR3 Breast Cell Line Long-term ErbB Network,0.979537,0.976452
+SKBR3 Breast Cell Line Short-term ErbB Network,0.962158,0.953861
+Senescence Associated Secretory Phenotype,0.98305,0.985995
+Septation Initiation Network,0.96267,0.962082
+Signal Transduction in Fibroblasts,0.990366,0.991737
+Signaling Pathway for Butanol Production in Clostridium beijerinckii NRRL B-598,0.986816,0.987937
+Signaling in Macrophage Activation,0.996776,0.996771
+Stomatal Opening Model,0.976485,0.976921
+T Cell Receptor Signaling,0.993393,0.993405
+T cell differentiation,0.947561,0.953415
+T-Cell Signaling 2006,0.993021,0.993358
+T-LGL Survival Network 2008,0.997805,0.993733
+T-LGL Survival Network 2011,0.998078,0.995139
+T-LGL Survival Network 2011 Reduced Network,0.991247,0.978121
+TOL Regulatory Network,0.959734,0.95961
+Toll Pathway of Drosophila Signaling Pathway,0.909421,0.909064
+Treatment of Castration-Resistant Prostate Cancer,0.974085,0.973804
+Trichostrongylus retortaeformis,0.973444,0.971423
+Tumour Cell Invasion and Migration,0.964625,0.960107
+VEGF Pathway of Drosophila Signaling Pathway,0.957401,0.957783
+Wg Pathway of Drosophila Signalling Pathways,0.964254,0.964134
+Yeast Apoptosis,0.988695,0.98864
