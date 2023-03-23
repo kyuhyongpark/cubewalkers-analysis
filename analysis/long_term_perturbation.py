@@ -127,7 +127,7 @@ models = import_models(cc_models_dir, IMPORT_RULES_FROM_FILES=IMPORT_RULES_FROM_
 total_models = len(models)
 
 difficult_models = {
-        'Arabidopsis thaliana Cell Cycle': (1000,1000),
+        'Arabidopsis thaliana Cell Cycle': (5000,5000),
         'Guard Cell Abscisic Acid Signaling': (5000, 5000),
         'Signal Transduction in Fibroblasts': (20000, 50000),
     }

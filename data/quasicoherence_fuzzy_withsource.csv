@@ -1,6 +1,6 @@
 model name, SFQC, AFQC
 Apoptosis Network,0.975734,0.976564
-Arabidopsis thaliana Cell Cycle,0.999913,0.999924
+Arabidopsis thaliana Cell Cycle,0.999986,1.0
 Aurora Kinase A in Neuroblastoma,0.943288,0.941871
 B bronchiseptica and T retortaeformis coinfection,0.991302,0.988368
 B cell differentiation,0.957846,0.955954
