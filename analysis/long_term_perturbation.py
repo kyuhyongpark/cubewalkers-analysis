@@ -10,7 +10,7 @@ from copy import deepcopy
 IMPORT_RULES_FROM_FILES = True
 cc_models_dir = './models/cell_collective/'
 
-DEBUG_USING_SHORT_TIME = True # IF TRUE, OUTPUTS WILL NOT HAVE TIME TO CONVERGE; DO NOT MODIFY
+DEBUG_USING_SHORT_TIME = False # IF TRUE, OUTPUTS WILL NOT HAVE TIME TO CONVERGE; ONLY MODIFY IT TO GENERATE RESULTS
 GLOBAL_WALKER_COUNT = 2500
 GLOBAL_TPB = (16,16)
 COMBINATIONS_TO_SIMULATE = ['quasicoherence_nonfuzzy_withsource',
@@ -47,7 +47,11 @@ def get_everything(trajU, trajP, diff, T_sample):
     fhd = cw.simulation.source_final_hamming_distance(diff, T_sample)
     return cp.array([c, fc, fhd])
 
-def simulate_models(models, sync):
+def simulate_models(models, sync, difficult_models=None):
+    
+    if difficult_models is None:
+        difficult_models = {}
+    
     results = {}
     for comb in COMBINATIONS_TO_SIMULATE:
         results[comb] = {}
@@ -58,9 +62,13 @@ def simulate_models(models, sync):
         N = model.n_variables
         results[model_name] = {}
         if not DEBUG_USING_SHORT_TIME:
-            timescale = 2*N
-            T = N**2 + 5 * timescale
-            T_sample = 5 * timescale
+            if model_name in difficult_models:
+                timescale, T_burn = difficult_models[model_name]
+            else:
+                timescale = N + 1000
+                T_burn = N*50 + 1000
+            T_sample = 5 * timescale        
+            T = T_burn + T_sample 
         else:
             T = 10
             T_sample = 5
@@ -118,8 +126,13 @@ def simulate_models(models, sync):
 models = import_models(cc_models_dir, IMPORT_RULES_FROM_FILES=IMPORT_RULES_FROM_FILES)
 total_models = len(models)
 
-sync_results=simulate_models(models,True)
-async_results=simulate_models(models,False)
+difficult_models = {
+        'Arabidopsis thaliana Cell Cycle': (5000,5000),
+        'Guard Cell Abscisic Acid Signaling': (5000, 5000),
+        'Signal Transduction in Fibroblasts': (20000, 50000),
+    }
+sync_results=simulate_models(models,True, difficult_models=difficult_models)
+async_results=simulate_models(models,False, difficult_models=difficult_models)
 
 headers = ['model name, SQC, AQC\n',
            'model name, SFQC, AFQC\n',
