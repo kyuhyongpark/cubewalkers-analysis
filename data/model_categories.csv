@@ -1,0 +1,75 @@
+model name,category
+Apoptosis Network,Signal Transduction (Stress/Damage and Homeostasis)
+Arabidopsis thaliana Cell Cycle,Cell Cycle
+Aurora Kinase A in Neuroblastoma,Cancer
+B bronchiseptica and T retortaeformis coinfection,Infection and Microbiome
+B cell differentiation,Development and Differentiation
+Bordetella bronchiseptica,Infection and Microbiome
+Bortezomib Responses in U266 Human Myeloma Cells,Cancer Drug Response
+BT474 Breast Cell Line Long-term ErbB Network,Cancer Drug Response
+BT474 Breast Cell Line Short-term ErbB Network,Cancer Drug Response
+Budding Yeast Cell Cycle 2009,Cell Cycle
+Budding Yeast Cell Cycle,Cell Cycle
+Cardiac development,Development and Differentiation
+CD4 T cell signaling,Signal Transduction (Immune System Cells)
+CD4+ T Cell Differentiation and Plasticity,Development and Differentiation
+CD4+ T cell Differentiation,Development and Differentiation
+Cell Cycle Transcription by Coupled CDK and Network Oscillators,Cell Cycle
+Cholesterol Regulatory Pathway,Metabolism
+Colitis-associated colon cancer,Cancer
+Cortical Area Development,Development and Differentiation
+Death Receptor Signaling,Signal Transduction (Stress/Damage and Homeostasis)
+Differentiation of T lymphocytes,Development and Differentiation
+EGFR & ErbB Signaling,Signal Transduction (Other)
+FA BRCA pathway,Cell Cycle
+Fanconi anemia and checkpoint recovery,Cell Cycle
+FGF pathway of Drosophila Signalling Pathways,Signal Transduction (Drosophila)
+Glucose Repression Signaling 2009,Metabolism
+Guard Cell Abscisic Acid Signaling,Signal Transduction (Stress/Damage and Homeostasis)
+HCC1954 Breast Cell Line Long-term ErbB Network,Cancer Drug Response
+HCC1954 Breast Cell Line Short-term ErbB Network,Cancer Drug Response
+HGF Signaling in Keratinocytes,Signal Transduction (Other)
+HH Pathway of Drosophila Signaling Pathways,Signal Transduction (Drosophila)
+HIV-1 interactions with T Cell Signalling Pathway,Signal Transduction (Immune System Cells)
+Human Gonadal Sex Determination,Development and Differentiation
+IGVH mutations in chronic lymphocytic leukemia,Cancer
+IL-1 Signaling,Signal Transduction (Immune System Cells)
+IL-6 Signalling,Signal Transduction (Immune System Cells)
+Influenza A Virus Replication Cycle,Infection and Microbiome
+Iron acquisition and oxidative stress response in aspergillus fumigatus,Metabolism
+Lac Operon,Metabolism
+Lymphoid and myeloid cell specification and transdifferentiation,Development and Differentiation
+Lymphopoiesis Regulatory Network,Development and Differentiation
+Mammalian Cell Cycle 2006,Cell Cycle
+Mammalian Cell Cycle,Cancer
+MAPK Cancer Cell Fate Network,Cancer
+Metabolic Interactions in the Gut Microbiome,Infection and Microbiome
+Neurotransmitter Signaling Pathway,Signal Transduction (Other)
+Oxidative Stress Pathway,Signal Transduction (Stress/Damage and Homeostasis)
+PC12 Cell Differentiation,Development and Differentiation
+Predicting Variabilities in Cardiac Gene,Development and Differentiation
+Pro-inflammatory Tumor Microenvironment in Acute Lymphoblastic Leukemia,Cancer
+Processing of Spz Network from the Drosophila Signaling Pathway,Signal Transduction (Drosophila)
+Regulation of the L-arabinose operon of Escherichia coli,Metabolism
+Senescence Associated Secretory Phenotype,Signal Transduction (Stress/Damage and Homeostasis)
+Septation Initiation Network,Cell Cycle
+Signal Transduction in Fibroblasts,Signal Transduction (Other)
+Signaling in Macrophage Activation,Signal Transduction (Immune System Cells)
+Signaling Pathway for Butanol Production in Clostridium beijerinckii NRRL B-598,Metabolism
+SKBR3 Breast Cell Line Long-term ErbB Network,Cancer Drug Response
+SKBR3 Breast Cell Line Short-term ErbB Network,Cancer Drug Response
+Stomatal Opening Model,Signal Transduction (Other)
+T cell differentiation,Development and Differentiation
+T Cell Receptor Signaling,Signal Transduction (Immune System Cells)
+T-Cell Signaling 2006,Signal Transduction (Immune System Cells)
+T-LGL Survival Network 2008,Cancer
+T-LGL Survival Network 2011 Reduced Network,Cancer
+T-LGL Survival Network 2011,Cancer
+TOL Regulatory Network,Metabolism
+Toll Pathway of Drosophila Signaling Pathway,Signal Transduction (Drosophila)
+Treatment of Castration-Resistant Prostate Cancer,Cancer Drug Response
+Trichostrongylus retortaeformis,Infection and Microbiome
+Tumour Cell Invasion and Migration,Cancer
+VEGF Pathway of Drosophila Signaling Pathway,Signal Transduction (Drosophila)
+Wg Pathway of Drosophila Signalling Pathways,Signal Transduction (Drosophila)
+Yeast Apoptosis,Signal Transduction (Stress/Damage and Homeostasis)
