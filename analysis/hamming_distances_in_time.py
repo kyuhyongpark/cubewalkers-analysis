@@ -9,7 +9,16 @@ import cupy as cp
 import cubewalkers as cw
 
 IMPORT_RULES_FROM_FILES = True
-cc_models_dir = './models/cell_collective/'
+CORRECTED_MODELS = True
+
+if CORRECTED_MODELS:
+    models_dir = './models/corrected_models/'
+    IMPORT_RULES_FROM_FILES = True # The corrections are only available in files
+    OutFileName = './data/corrected_models/hamming_distances_in_time_{source_str}.csv'
+    
+else:
+    models_dir = './models/cell_collective/'
+    OutFileName = './data/cell_collective/hamming_distances_in_time_{source_str}.csv'
 
 DEBUG_USING_SHORT_TIME = False # IF TRUE, OUTPUTS WILL NOT HAVE TIME TO CONVERGE; ONLY MODIFY IT TO GENERATE RESULTS
 GLOBAL_WALKER_COUNT = 2500
@@ -84,13 +93,13 @@ def simulate_hamming_distances_in_time(models, sync, T_sync, sourceless):
         print(f"Progress: {(model_idx+1)}/{total_models}")
     return results
 
-models = import_models(cc_models_dir, IMPORT_RULES_FROM_FILES=IMPORT_RULES_FROM_FILES)
+models = import_models(models_dir, IMPORT_RULES_FROM_FILES=IMPORT_RULES_FROM_FILES)
 total_models = len(models)
 
 for source_str in COMBINATIONS_TO_SIMULATE:
     sourceless = (source_str == 'sourceless')
     
-    filestring = f'./data/hamming_distances_in_time_{source_str}.csv'
+    filestring = OutFileName.format(source_str = source_str)
 
     sync_hamming_distances = simulate_hamming_distances_in_time(models,True,T_SYNC,sourceless)
     async_hamming_distances = simulate_hamming_distances_in_time(models,False,T_SYNC,sourceless)
