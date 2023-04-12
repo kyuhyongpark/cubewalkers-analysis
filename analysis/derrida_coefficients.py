@@ -7,6 +7,7 @@ from io import StringIO
 
 NUMBER_OF_WALKERS = 100000
 IMPORT_RULES_FROM_FILES = True
+CORRECTED_MODELS = True
 
 def derrida_cell_coll(models, sync=True ,W=NUMBER_OF_WALKERS):
     derrida_coefficients = {}
@@ -75,13 +76,21 @@ def derrida_cell_coll_sourceless(models, sync=True ,W=NUMBER_OF_WALKERS):
         print(f"Progress: {(model_idx+1)}/{total_models}")
     return derrida_coefficients_sourceless
 
-cc_models_dir = './models/cell_collective/'
+
+if CORRECTED_MODELS:
+    models_dir = './models/corrected_models/'
+    IMPORT_RULES_FROM_FILES = True # The corrections are only available in files
+    OutFileName = './data/corrected_models/derrida_coefficients.csv'
+else:
+    models_dir = './models/cell_collective/'
+    OutFileName = './data/cell_collective/derrida_coefficients.csv'
+    
 if IMPORT_RULES_FROM_FILES:
     from os import listdir
     
     sync_models = {}
-    for fname in listdir(cc_models_dir):
-        with open(cc_models_dir+fname) as rulefile:
+    for fname in listdir(models_dir):
+        with open(models_dir+fname) as rulefile:
             name = fname.strip('.txt')
             rules = rulefile.read()
             sync_models[name]=cw.Model(rules)
@@ -103,7 +112,7 @@ dc_async = derrida_cell_coll(async_models,sync=False)
 dcns_sync = derrida_cell_coll_sourceless(sync_models,sync=True)
 dcns_async = derrida_cell_coll_sourceless(async_models,sync=False)
 
-with open('./data/derrida_coefficients.csv','w') as f:
+with open(OutFileName,'w') as f:
     f.write(('model name, '
              'synchronous DC, ' 
              'asynchronous DC, '

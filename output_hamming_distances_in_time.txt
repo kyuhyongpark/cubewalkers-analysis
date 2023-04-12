@@ -1,592 +1,576 @@
-Simulating Model T-Cell Signaling 2006 (W=2500,T=10,N=40). . .
-Progress: 1/74
-Simulating Model IL-1 Signaling (W=2500,T=10,N=118). . .
-Progress: 2/74
-Simulating Model CD4 T cell signaling (W=2500,T=10,N=188). . .
-Progress: 3/74
 Simulating Model Death Receptor Signaling (W=2500,T=10,N=28). . .
-Progress: 4/74
-Simulating Model Lymphopoiesis Regulatory Network (W=2500,T=10,N=81). . .
-Progress: 5/74
-Simulating Model Lymphoid and myeloid cell specification and transdifferentiation (W=2500,T=10,N=33). . .
-Progress: 6/74
-Simulating Model TOL Regulatory Network (W=2500,T=10,N=24). . .
-Progress: 7/74
-Simulating Model T-LGL Survival Network 2011 (W=2500,T=10,N=60). . .
-Progress: 8/74
-Simulating Model HIV-1 interactions with T Cell Signalling Pathway (W=2500,T=10,N=138). . .
-Progress: 9/74
-Simulating Model Oxidative Stress Pathway (W=2500,T=10,N=19). . .
-Progress: 10/74
-Simulating Model BT474 Breast Cell Line Short-term ErbB Network (W=2500,T=10,N=16). . .
-Progress: 11/74
-Simulating Model Stomatal Opening Model (W=2500,T=10,N=49). . .
-Progress: 12/74
-Simulating Model Septation Initiation Network (W=2500,T=10,N=31). . .
-Progress: 13/74
-Simulating Model B cell differentiation (W=2500,T=10,N=22). . .
-Progress: 14/74
-Simulating Model PC12 Cell Differentiation (W=2500,T=10,N=62). . .
-Progress: 15/74
-Simulating Model FGF pathway of Drosophila Signalling Pathways (W=2500,T=10,N=23). . .
-Progress: 16/74
-Simulating Model Fanconi anemia and checkpoint recovery (W=2500,T=10,N=15). . .
-Progress: 17/74
-Simulating Model Signal Transduction in Fibroblasts (W=2500,T=10,N=139). . .
-Progress: 18/74
-Simulating Model Aurora Kinase A in Neuroblastoma (W=2500,T=10,N=23). . .
-Progress: 19/74
-Simulating Model CD4+ T cell Differentiation (W=2500,T=10,N=38). . .
-Progress: 20/74
-Simulating Model MAPK Cancer Cell Fate Network (W=2500,T=10,N=53). . .
-Progress: 21/74
-Simulating Model Treatment of Castration-Resistant Prostate Cancer (W=2500,T=10,N=42). . .
-Progress: 22/74
-Simulating Model Cardiac development (W=2500,T=10,N=15). . .
-Progress: 23/74
-Simulating Model HGF Signaling in Keratinocytes (W=2500,T=10,N=68). . .
-Progress: 24/74
-Simulating Model T Cell Receptor Signaling (W=2500,T=10,N=101). . .
-Progress: 25/74
-Simulating Model HCC1954 Breast Cell Line Short-term ErbB Network (W=2500,T=10,N=16). . .
-Progress: 26/74
-Simulating Model Cortical Area Development (W=2500,T=10,N=5). . .
-Progress: 27/74
-Simulating Model Mammalian Cell Cycle 2006 (W=2500,T=10,N=10). . .
-Progress: 28/74
-Simulating Model Predicting Variabilities in Cardiac Gene (W=2500,T=10,N=15). . .
-Progress: 29/74
-Simulating Model Budding Yeast Cell Cycle (W=2500,T=10,N=20). . .
-Progress: 30/74
-Simulating Model Metabolic Interactions in the Gut Microbiome (W=2500,T=10,N=12). . .
-Progress: 31/74
-Simulating Model SKBR3 Breast Cell Line Short-term ErbB Network (W=2500,T=10,N=16). . .
-Progress: 32/74
-Simulating Model Wg Pathway of Drosophila Signalling Pathways (W=2500,T=10,N=26). . .
-Progress: 33/74
-Simulating Model FA BRCA pathway (W=2500,T=10,N=28). . .
-Progress: 34/74
+Progress: 1/72
 Simulating Model Cell Cycle Transcription by Coupled CDK and Network Oscillators (W=2500,T=10,N=9). . .
-Progress: 35/74
-Simulating Model T-LGL Survival Network 2008 (W=2500,T=10,N=61). . .
-Progress: 36/74
-Simulating Model Toll Pathway of Drosophila Signaling Pathway (W=2500,T=10,N=11). . .
-Progress: 37/74
-Simulating Model Pro-inflammatory Tumor Microenvironment in Acute Lymphoblastic Leukemia (W=2500,T=10,N=26). . .
-Progress: 38/74
-Simulating Model Yeast Apoptosis (W=2500,T=10,N=73). . .
-Progress: 39/74
-Simulating Model Budding Yeast Cell Cycle 2009 (W=2500,T=10,N=18). . .
-Progress: 40/74
-Simulating Model Iron acquisition and oxidative stress response in aspergillus fumigatus (W=2500,T=10,N=22). . .
-Progress: 41/74
-Simulating Model BT474 Breast Cell Line Long-term ErbB Network (W=2500,T=10,N=25). . .
-Progress: 42/74
-Simulating Model Bordetella bronchiseptica (W=2500,T=10,N=33). . .
-Progress: 43/74
-Simulating Model B bronchiseptica and T retortaeformis coinfection (W=2500,T=10,N=53). . .
-Progress: 44/74
-Simulating Model EGFR & ErbB Signaling (W=2500,T=10,N=104). . .
-Progress: 45/74
-Simulating Model Processing of Spz Network from the Drosophila Signaling Pathway (W=2500,T=10,N=24). . .
-Progress: 46/74
-Simulating Model Colitis-associated colon cancer (W=2500,T=10,N=70). . .
-Progress: 47/74
-Simulating Model Guard Cell Abscisic Acid Signaling (W=2500,T=10,N=44). . .
-Progress: 48/74
-Simulating Model IGVH mutations in chronic lymphocytic leukemia (W=2500,T=10,N=91). . .
-Progress: 49/74
-Simulating Model HH Pathway of Drosophila Signaling Pathways (W=2500,T=10,N=24). . .
-Progress: 50/74
-Simulating Model Differentiation of T lymphocytes (W=2500,T=10,N=50). . .
-Progress: 51/74
-Simulating Model Lac Operon (W=2500,T=10,N=13). . .
-Progress: 52/74
-Simulating Model Tumour Cell Invasion and Migration (W=2500,T=10,N=32). . .
-Progress: 53/74
-Simulating Model Regulation of the L-arabinose operon of Escherichia coli (W=2500,T=10,N=13). . .
-Progress: 54/74
-Simulating Model Neurotransmitter Signaling Pathway (W=2500,T=10,N=16). . .
-Progress: 55/74
-Simulating Model SKBR3 Breast Cell Line Long-term ErbB Network (W=2500,T=10,N=25). . .
-Progress: 56/74
-Simulating Model Senescence Associated Secretory Phenotype (W=2500,T=10,N=51). . .
-Progress: 57/74
-Simulating Model Mammalian Cell Cycle (W=2500,T=10,N=20). . .
-Progress: 58/74
-Simulating Model Signaling Pathway for Butanol Production in Clostridium beijerinckii NRRL B-598 (W=2500,T=10,N=66). . .
-Progress: 59/74
-Simulating Model Cholesterol Regulatory Pathway (W=2500,T=10,N=34). . .
-Progress: 60/74
-Simulating Model Glucose Repression Signaling 2009 (W=2500,T=10,N=73). . .
-Progress: 61/74
-Simulating Model IL-6 Signalling (W=2500,T=10,N=86). . .
-Progress: 62/74
-Simulating Model VEGF Pathway of Drosophila Signaling Pathway (W=2500,T=10,N=18). . .
-Progress: 63/74
-Simulating Model Influenza A Virus Replication Cycle (W=2500,T=10,N=131). . .
-Progress: 64/74
-Simulating Model T-LGL Survival Network 2011 Reduced Network (W=2500,T=10,N=18). . .
-Progress: 65/74
-Simulating Model T cell differentiation (W=2500,T=10,N=23). . .
-Progress: 66/74
-Simulating Model Signaling in Macrophage Activation (W=2500,T=10,N=321). . .
-Progress: 67/74
-Simulating Model Trichostrongylus retortaeformis (W=2500,T=10,N=26). . .
-Progress: 68/74
-Simulating Model HCC1954 Breast Cell Line Long-term ErbB Network (W=2500,T=10,N=25). . .
-Progress: 69/74
-Simulating Model Human Gonadal Sex Determination (W=2500,T=10,N=19). . .
-Progress: 70/74
-Simulating Model CD4+ T Cell Differentiation and Plasticity (W=2500,T=10,N=18). . .
-Progress: 71/74
-Simulating Model Bortezomib Responses in U266 Human Myeloma Cells (W=2500,T=10,N=67). . .
-Progress: 72/74
-Simulating Model Arabidopsis thaliana Cell Cycle (W=2500,T=10,N=14). . .
-Progress: 73/74
+Progress: 2/72
 Simulating Model Apoptosis Network (W=2500,T=10,N=41). . .
-Progress: 74/74
-Simulating Model T-Cell Signaling 2006 (W=2500,T=400,N=40). . .
-Progress: 1/74
-Simulating Model IL-1 Signaling (W=2500,T=1180,N=118). . .
-Progress: 2/74
-Simulating Model CD4 T cell signaling (W=2500,T=1880,N=188). . .
-Progress: 3/74
-Simulating Model Death Receptor Signaling (W=2500,T=280,N=28). . .
-Progress: 4/74
-Simulating Model Lymphopoiesis Regulatory Network (W=2500,T=810,N=81). . .
-Progress: 5/74
-Simulating Model Lymphoid and myeloid cell specification and transdifferentiation (W=2500,T=330,N=33). . .
-Progress: 6/74
-Simulating Model TOL Regulatory Network (W=2500,T=240,N=24). . .
-Progress: 7/74
-Simulating Model T-LGL Survival Network 2011 (W=2500,T=600,N=60). . .
-Progress: 8/74
-Simulating Model HIV-1 interactions with T Cell Signalling Pathway (W=2500,T=1380,N=138). . .
-Progress: 9/74
-Simulating Model Oxidative Stress Pathway (W=2500,T=190,N=19). . .
-Progress: 10/74
-Simulating Model BT474 Breast Cell Line Short-term ErbB Network (W=2500,T=160,N=16). . .
-Progress: 11/74
-Simulating Model Stomatal Opening Model (W=2500,T=490,N=49). . .
-Progress: 12/74
-Simulating Model Septation Initiation Network (W=2500,T=310,N=31). . .
-Progress: 13/74
-Simulating Model B cell differentiation (W=2500,T=220,N=22). . .
-Progress: 14/74
-Simulating Model PC12 Cell Differentiation (W=2500,T=620,N=62). . .
-Progress: 15/74
-Simulating Model FGF pathway of Drosophila Signalling Pathways (W=2500,T=230,N=23). . .
-Progress: 16/74
-Simulating Model Fanconi anemia and checkpoint recovery (W=2500,T=150,N=15). . .
-Progress: 17/74
-Simulating Model Signal Transduction in Fibroblasts (W=2500,T=1390,N=139). . .
-Progress: 18/74
-Simulating Model Aurora Kinase A in Neuroblastoma (W=2500,T=230,N=23). . .
-Progress: 19/74
-Simulating Model CD4+ T cell Differentiation (W=2500,T=380,N=38). . .
-Progress: 20/74
-Simulating Model MAPK Cancer Cell Fate Network (W=2500,T=530,N=53). . .
-Progress: 21/74
-Simulating Model Treatment of Castration-Resistant Prostate Cancer (W=2500,T=420,N=42). . .
-Progress: 22/74
-Simulating Model Cardiac development (W=2500,T=150,N=15). . .
-Progress: 23/74
-Simulating Model HGF Signaling in Keratinocytes (W=2500,T=680,N=68). . .
-Progress: 24/74
-Simulating Model T Cell Receptor Signaling (W=2500,T=1010,N=101). . .
-Progress: 25/74
-Simulating Model HCC1954 Breast Cell Line Short-term ErbB Network (W=2500,T=160,N=16). . .
-Progress: 26/74
-Simulating Model Cortical Area Development (W=2500,T=50,N=5). . .
-Progress: 27/74
-Simulating Model Mammalian Cell Cycle 2006 (W=2500,T=100,N=10). . .
-Progress: 28/74
-Simulating Model Predicting Variabilities in Cardiac Gene (W=2500,T=150,N=15). . .
-Progress: 29/74
-Simulating Model Budding Yeast Cell Cycle (W=2500,T=200,N=20). . .
-Progress: 30/74
-Simulating Model Metabolic Interactions in the Gut Microbiome (W=2500,T=120,N=12). . .
-Progress: 31/74
-Simulating Model SKBR3 Breast Cell Line Short-term ErbB Network (W=2500,T=160,N=16). . .
-Progress: 32/74
-Simulating Model Wg Pathway of Drosophila Signalling Pathways (W=2500,T=260,N=26). . .
-Progress: 33/74
-Simulating Model FA BRCA pathway (W=2500,T=280,N=28). . .
-Progress: 34/74
-Simulating Model Cell Cycle Transcription by Coupled CDK and Network Oscillators (W=2500,T=90,N=9). . .
-Progress: 35/74
-Simulating Model T-LGL Survival Network 2008 (W=2500,T=610,N=61). . .
-Progress: 36/74
-Simulating Model Toll Pathway of Drosophila Signaling Pathway (W=2500,T=110,N=11). . .
-Progress: 37/74
-Simulating Model Pro-inflammatory Tumor Microenvironment in Acute Lymphoblastic Leukemia (W=2500,T=260,N=26). . .
-Progress: 38/74
-Simulating Model Yeast Apoptosis (W=2500,T=730,N=73). . .
-Progress: 39/74
-Simulating Model Budding Yeast Cell Cycle 2009 (W=2500,T=180,N=18). . .
-Progress: 40/74
-Simulating Model Iron acquisition and oxidative stress response in aspergillus fumigatus (W=2500,T=220,N=22). . .
-Progress: 41/74
-Simulating Model BT474 Breast Cell Line Long-term ErbB Network (W=2500,T=250,N=25). . .
-Progress: 42/74
-Simulating Model Bordetella bronchiseptica (W=2500,T=330,N=33). . .
-Progress: 43/74
-Simulating Model B bronchiseptica and T retortaeformis coinfection (W=2500,T=530,N=53). . .
-Progress: 44/74
-Simulating Model EGFR & ErbB Signaling (W=2500,T=1040,N=104). . .
-Progress: 45/74
-Simulating Model Processing of Spz Network from the Drosophila Signaling Pathway (W=2500,T=240,N=24). . .
-Progress: 46/74
-Simulating Model Colitis-associated colon cancer (W=2500,T=700,N=70). . .
-Progress: 47/74
-Simulating Model Guard Cell Abscisic Acid Signaling (W=2500,T=440,N=44). . .
-Progress: 48/74
-Simulating Model IGVH mutations in chronic lymphocytic leukemia (W=2500,T=910,N=91). . .
-Progress: 49/74
-Simulating Model HH Pathway of Drosophila Signaling Pathways (W=2500,T=240,N=24). . .
-Progress: 50/74
-Simulating Model Differentiation of T lymphocytes (W=2500,T=500,N=50). . .
-Progress: 51/74
-Simulating Model Lac Operon (W=2500,T=130,N=13). . .
-Progress: 52/74
-Simulating Model Tumour Cell Invasion and Migration (W=2500,T=320,N=32). . .
-Progress: 53/74
-Simulating Model Regulation of the L-arabinose operon of Escherichia coli (W=2500,T=130,N=13). . .
-Progress: 54/74
-Simulating Model Neurotransmitter Signaling Pathway (W=2500,T=160,N=16). . .
-Progress: 55/74
-Simulating Model SKBR3 Breast Cell Line Long-term ErbB Network (W=2500,T=250,N=25). . .
-Progress: 56/74
-Simulating Model Senescence Associated Secretory Phenotype (W=2500,T=510,N=51). . .
-Progress: 57/74
-Simulating Model Mammalian Cell Cycle (W=2500,T=200,N=20). . .
-Progress: 58/74
-Simulating Model Signaling Pathway for Butanol Production in Clostridium beijerinckii NRRL B-598 (W=2500,T=660,N=66). . .
-Progress: 59/74
-Simulating Model Cholesterol Regulatory Pathway (W=2500,T=340,N=34). . .
-Progress: 60/74
-Simulating Model Glucose Repression Signaling 2009 (W=2500,T=730,N=73). . .
-Progress: 61/74
-Simulating Model IL-6 Signalling (W=2500,T=860,N=86). . .
-Progress: 62/74
-Simulating Model VEGF Pathway of Drosophila Signaling Pathway (W=2500,T=180,N=18). . .
-Progress: 63/74
-Simulating Model Influenza A Virus Replication Cycle (W=2500,T=1310,N=131). . .
-Progress: 64/74
-Simulating Model T-LGL Survival Network 2011 Reduced Network (W=2500,T=180,N=18). . .
-Progress: 65/74
-Simulating Model T cell differentiation (W=2500,T=230,N=23). . .
-Progress: 66/74
-Simulating Model Signaling in Macrophage Activation (W=2500,T=3210,N=321). . .
-Progress: 67/74
-Simulating Model Trichostrongylus retortaeformis (W=2500,T=260,N=26). . .
-Progress: 68/74
-Simulating Model HCC1954 Breast Cell Line Long-term ErbB Network (W=2500,T=250,N=25). . .
-Progress: 69/74
-Simulating Model Human Gonadal Sex Determination (W=2500,T=190,N=19). . .
-Progress: 70/74
-Simulating Model CD4+ T Cell Differentiation and Plasticity (W=2500,T=180,N=18). . .
-Progress: 71/74
-Simulating Model Bortezomib Responses in U266 Human Myeloma Cells (W=2500,T=670,N=67). . .
-Progress: 72/74
-Simulating Model Arabidopsis thaliana Cell Cycle (W=2500,T=140,N=14). . .
-Progress: 73/74
-Simulating Model Apoptosis Network (W=2500,T=410,N=41). . .
-Progress: 74/74
-Simulating Model T-Cell Signaling 2006 (W=2500,T=10,N=40). . .
-Progress: 1/74
-Simulating Model IL-1 Signaling (W=2500,T=10,N=118). . .
-Progress: 2/74
+Progress: 3/72
+Simulating Model SKBR3 Breast Cell Line Long-term ErbB Network (W=2500,T=10,N=25). . .
+Progress: 4/72
+Simulating Model TOL Regulatory Network (W=2500,T=10,N=24). . .
+Progress: 5/72
+Simulating Model T-LGL Survival Network 2011 Reduced Network (W=2500,T=10,N=18). . .
+Progress: 6/72
+Simulating Model Stomatal Opening Model (W=2500,T=10,N=49). . .
+Progress: 7/72
+Simulating Model T Cell Receptor Signaling (W=2500,T=10,N=98). . .
+Progress: 8/72
+Simulating Model B cell differentiation (W=2500,T=10,N=22). . .
+Progress: 9/72
+Simulating Model BT474 Breast Cell Line Long-term ErbB Network (W=2500,T=10,N=24). . .
+Progress: 10/72
+Simulating Model Signaling in Macrophage Activation (W=2500,T=10,N=320). . .
+Progress: 11/72
+Simulating Model Oxidative Stress Pathway (W=2500,T=10,N=19). . .
+Progress: 12/72
+Simulating Model B bronchiseptica and T retortaeformis coinfection (W=2500,T=10,N=53). . .
+Progress: 13/72
+Simulating Model Mammalian Cell Cycle 2006 (W=2500,T=10,N=10). . .
+Progress: 14/72
+Simulating Model Cortical Area Development (W=2500,T=10,N=5). . .
+Progress: 15/72
+Simulating Model HCC1954 Breast Cell Line Short-term ErbB Network (W=2500,T=10,N=16). . .
+Progress: 16/72
+Simulating Model Tumour Cell Invasion and Migration (W=2500,T=10,N=32). . .
+Progress: 17/72
+Simulating Model HGF Signaling in Keratinocytes (W=2500,T=10,N=68). . .
+Progress: 18/72
+Simulating Model IGVH mutations in chronic lymphocytic leukemia (W=2500,T=10,N=91). . .
+Progress: 19/72
+Simulating Model Guard Cell Abscisic Acid Signaling (W=2500,T=10,N=44). . .
+Progress: 20/72
+Simulating Model VEGF Pathway of Drosophila Signaling Pathway (W=2500,T=10,N=18). . .
+Progress: 21/72
+Simulating Model Regulation of the L-arabinose operon of Escherichia coli (W=2500,T=10,N=13). . .
+Progress: 22/72
+Simulating Model HH Pathway of Drosophila Signaling Pathways (W=2500,T=10,N=24). . .
+Progress: 23/72
+Simulating Model Lac Operon (W=2500,T=10,N=13). . .
+Progress: 24/72
+Simulating Model PC12 Cell Differentiation (W=2500,T=10,N=62). . .
+Progress: 25/72
+Simulating Model IL-6 Signalling (W=2500,T=10,N=86). . .
+Progress: 26/72
+Simulating Model Pro-inflammatory Tumor Microenvironment in Acute Lymphoblastic Leukemia (W=2500,T=10,N=26). . .
+Progress: 27/72
+Simulating Model Differentiation of T lymphocytes (W=2500,T=10,N=50). . .
+Progress: 28/72
+Simulating Model EGFR & ErbB Signaling (W=2500,T=10,N=104). . .
+Progress: 29/72
+Simulating Model Cardiac development (W=2500,T=10,N=15). . .
+Progress: 30/72
 Simulating Model CD4 T cell signaling (W=2500,T=10,N=188). . .
-Progress: 3/74
-Simulating Model Death Receptor Signaling (W=2500,T=10,N=28). . .
-Progress: 4/74
-Simulating Model Lymphopoiesis Regulatory Network (W=2500,T=10,N=81). . .
-Progress: 5/74
-Simulating Model Lymphoid and myeloid cell specification and transdifferentiation (W=2500,T=10,N=33). . .
-Progress: 6/74
-Simulating Model TOL Regulatory Network (W=2500,T=10,N=24). . .
-Progress: 7/74
-Simulating Model T-LGL Survival Network 2011 (W=2500,T=10,N=60). . .
-Progress: 8/74
-Simulating Model HIV-1 interactions with T Cell Signalling Pathway (W=2500,T=10,N=138). . .
-Progress: 9/74
-Simulating Model Oxidative Stress Pathway (W=2500,T=10,N=19). . .
-Progress: 10/74
-Simulating Model BT474 Breast Cell Line Short-term ErbB Network (W=2500,T=10,N=16). . .
-Progress: 11/74
-Simulating Model Stomatal Opening Model (W=2500,T=10,N=49). . .
-Progress: 12/74
-Simulating Model Septation Initiation Network (W=2500,T=10,N=31). . .
-Progress: 13/74
-Simulating Model B cell differentiation (W=2500,T=10,N=22). . .
-Progress: 14/74
-Simulating Model PC12 Cell Differentiation (W=2500,T=10,N=62). . .
-Progress: 15/74
-Simulating Model FGF pathway of Drosophila Signalling Pathways (W=2500,T=10,N=23). . .
-Progress: 16/74
-Simulating Model Fanconi anemia and checkpoint recovery (W=2500,T=10,N=15). . .
-Progress: 17/74
-Simulating Model Signal Transduction in Fibroblasts (W=2500,T=10,N=139). . .
-Progress: 18/74
-Simulating Model Aurora Kinase A in Neuroblastoma (W=2500,T=10,N=23). . .
-Progress: 19/74
-Simulating Model CD4+ T cell Differentiation (W=2500,T=10,N=38). . .
-Progress: 20/74
-Simulating Model MAPK Cancer Cell Fate Network (W=2500,T=10,N=53). . .
-Progress: 21/74
-Simulating Model Treatment of Castration-Resistant Prostate Cancer (W=2500,T=10,N=42). . .
-Progress: 22/74
-Simulating Model Cardiac development (W=2500,T=10,N=15). . .
-Progress: 23/74
-Simulating Model HGF Signaling in Keratinocytes (W=2500,T=10,N=68). . .
-Progress: 24/74
-Simulating Model T Cell Receptor Signaling (W=2500,T=10,N=101). . .
-Progress: 25/74
-Simulating Model HCC1954 Breast Cell Line Short-term ErbB Network (W=2500,T=10,N=16). . .
-Progress: 26/74
-Simulating Model Cortical Area Development (W=2500,T=10,N=5). . .
-Progress: 27/74
-Simulating Model Mammalian Cell Cycle 2006 (W=2500,T=10,N=10). . .
-Progress: 28/74
-Simulating Model Predicting Variabilities in Cardiac Gene (W=2500,T=10,N=15). . .
-Progress: 29/74
+Progress: 31/72
 Simulating Model Budding Yeast Cell Cycle (W=2500,T=10,N=20). . .
-Progress: 30/74
-Simulating Model Metabolic Interactions in the Gut Microbiome (W=2500,T=10,N=12). . .
-Progress: 31/74
-Simulating Model SKBR3 Breast Cell Line Short-term ErbB Network (W=2500,T=10,N=16). . .
-Progress: 32/74
-Simulating Model Wg Pathway of Drosophila Signalling Pathways (W=2500,T=10,N=26). . .
-Progress: 33/74
-Simulating Model FA BRCA pathway (W=2500,T=10,N=28). . .
-Progress: 34/74
-Simulating Model Cell Cycle Transcription by Coupled CDK and Network Oscillators (W=2500,T=10,N=9). . .
-Progress: 35/74
-Simulating Model T-LGL Survival Network 2008 (W=2500,T=10,N=61). . .
-Progress: 36/74
-Simulating Model Toll Pathway of Drosophila Signaling Pathway (W=2500,T=10,N=11). . .
-Progress: 37/74
-Simulating Model Pro-inflammatory Tumor Microenvironment in Acute Lymphoblastic Leukemia (W=2500,T=10,N=26). . .
-Progress: 38/74
-Simulating Model Yeast Apoptosis (W=2500,T=10,N=73). . .
-Progress: 39/74
-Simulating Model Budding Yeast Cell Cycle 2009 (W=2500,T=10,N=18). . .
-Progress: 40/74
-Simulating Model Iron acquisition and oxidative stress response in aspergillus fumigatus (W=2500,T=10,N=22). . .
-Progress: 41/74
-Simulating Model BT474 Breast Cell Line Long-term ErbB Network (W=2500,T=10,N=25). . .
-Progress: 42/74
-Simulating Model Bordetella bronchiseptica (W=2500,T=10,N=33). . .
-Progress: 43/74
-Simulating Model B bronchiseptica and T retortaeformis coinfection (W=2500,T=10,N=53). . .
-Progress: 44/74
-Simulating Model EGFR & ErbB Signaling (W=2500,T=10,N=104). . .
-Progress: 45/74
-Simulating Model Processing of Spz Network from the Drosophila Signaling Pathway (W=2500,T=10,N=24). . .
-Progress: 46/74
-Simulating Model Colitis-associated colon cancer (W=2500,T=10,N=70). . .
-Progress: 47/74
-Simulating Model Guard Cell Abscisic Acid Signaling (W=2500,T=10,N=44). . .
-Progress: 48/74
-Simulating Model IGVH mutations in chronic lymphocytic leukemia (W=2500,T=10,N=91). . .
-Progress: 49/74
-Simulating Model HH Pathway of Drosophila Signaling Pathways (W=2500,T=10,N=24). . .
-Progress: 50/74
-Simulating Model Differentiation of T lymphocytes (W=2500,T=10,N=50). . .
-Progress: 51/74
-Simulating Model Lac Operon (W=2500,T=10,N=13). . .
-Progress: 52/74
-Simulating Model Tumour Cell Invasion and Migration (W=2500,T=10,N=32). . .
-Progress: 53/74
-Simulating Model Regulation of the L-arabinose operon of Escherichia coli (W=2500,T=10,N=13). . .
-Progress: 54/74
+Progress: 32/72
 Simulating Model Neurotransmitter Signaling Pathway (W=2500,T=10,N=16). . .
-Progress: 55/74
-Simulating Model SKBR3 Breast Cell Line Long-term ErbB Network (W=2500,T=10,N=25). . .
-Progress: 56/74
-Simulating Model Senescence Associated Secretory Phenotype (W=2500,T=10,N=51). . .
-Progress: 57/74
-Simulating Model Mammalian Cell Cycle (W=2500,T=10,N=20). . .
-Progress: 58/74
-Simulating Model Signaling Pathway for Butanol Production in Clostridium beijerinckii NRRL B-598 (W=2500,T=10,N=66). . .
-Progress: 59/74
-Simulating Model Cholesterol Regulatory Pathway (W=2500,T=10,N=34). . .
-Progress: 60/74
-Simulating Model Glucose Repression Signaling 2009 (W=2500,T=10,N=73). . .
-Progress: 61/74
-Simulating Model IL-6 Signalling (W=2500,T=10,N=86). . .
-Progress: 62/74
-Simulating Model VEGF Pathway of Drosophila Signaling Pathway (W=2500,T=10,N=18). . .
-Progress: 63/74
-Simulating Model Influenza A Virus Replication Cycle (W=2500,T=10,N=131). . .
-Progress: 64/74
-Simulating Model T-LGL Survival Network 2011 Reduced Network (W=2500,T=10,N=18). . .
-Progress: 65/74
-Simulating Model T cell differentiation (W=2500,T=10,N=23). . .
-Progress: 66/74
-Simulating Model Signaling in Macrophage Activation (W=2500,T=10,N=321). . .
-Progress: 67/74
-Simulating Model Trichostrongylus retortaeformis (W=2500,T=10,N=26). . .
-Progress: 68/74
-Simulating Model HCC1954 Breast Cell Line Long-term ErbB Network (W=2500,T=10,N=25). . .
-Progress: 69/74
-Simulating Model Human Gonadal Sex Determination (W=2500,T=10,N=19). . .
-Progress: 70/74
-Simulating Model CD4+ T Cell Differentiation and Plasticity (W=2500,T=10,N=18). . .
-Progress: 71/74
+Progress: 33/72
 Simulating Model Bortezomib Responses in U266 Human Myeloma Cells (W=2500,T=10,N=67). . .
-Progress: 72/74
+Progress: 34/72
+Simulating Model Lymphoid and myeloid cell specification and transdifferentiation (W=2500,T=10,N=33). . .
+Progress: 35/72
+Simulating Model IL-1 Signaling (W=2500,T=10,N=118). . .
+Progress: 36/72
+Simulating Model Iron acquisition and oxidative stress response in aspergillus fumigatus (W=2500,T=10,N=22). . .
+Progress: 37/72
+Simulating Model HCC1954 Breast Cell Line Long-term ErbB Network (W=2500,T=10,N=23). . .
+Progress: 38/72
+Simulating Model T-LGL Survival Network 2011 (W=2500,T=10,N=60). . .
+Progress: 39/72
+Simulating Model FGF pathway of Drosophila Signalling Pathways (W=2500,T=10,N=23). . .
+Progress: 40/72
+Simulating Model Colitis-associated colon cancer (W=2500,T=10,N=70). . .
+Progress: 41/72
+Simulating Model HIV-1 interactions with T Cell Signalling Pathway (W=2500,T=10,N=138). . .
+Progress: 42/72
+Simulating Model Glucose Repression Signaling 2009 (W=2500,T=10,N=73). . .
+Progress: 43/72
+Simulating Model Cholesterol Regulatory Pathway (W=2500,T=10,N=34). . .
+Progress: 44/72
+Simulating Model CD4+ T Cell Differentiation and Plasticity (W=2500,T=10,N=18). . .
+Progress: 45/72
+Simulating Model Senescence Associated Secretory Phenotype (W=2500,T=10,N=51). . .
+Progress: 46/72
+Simulating Model SKBR3 Breast Cell Line Short-term ErbB Network (W=2500,T=10,N=16). . .
+Progress: 47/72
+Simulating Model CD4+ T cell Differentiation (W=2500,T=10,N=38). . .
+Progress: 48/72
+Simulating Model Aurora Kinase A in Neuroblastoma (W=2500,T=10,N=23). . .
+Progress: 49/72
+Simulating Model T cell differentiation (W=2500,T=10,N=23). . .
+Progress: 50/72
+Simulating Model MAPK Cancer Cell Fate Network (W=2500,T=10,N=53). . .
+Progress: 51/72
+Simulating Model Fanconi anemia and checkpoint recovery (W=2500,T=10,N=15). . .
+Progress: 52/72
+Simulating Model Influenza A Virus Replication Cycle (W=2500,T=10,N=131). . .
+Progress: 53/72
+Simulating Model Mammalian Cell Cycle (W=2500,T=10,N=20). . .
+Progress: 54/72
+Simulating Model Human Gonadal Sex Determination (W=2500,T=10,N=19). . .
+Progress: 55/72
+Simulating Model Lymphopoiesis Regulatory Network (W=2500,T=10,N=81). . .
+Progress: 56/72
+Simulating Model Signal Transduction in Fibroblasts (W=2500,T=10,N=139). . .
+Progress: 57/72
+Simulating Model T-Cell Signaling 2006 (W=2500,T=10,N=40). . .
+Progress: 58/72
+Simulating Model Septation Initiation Network (W=2500,T=10,N=30). . .
+Progress: 59/72
+Simulating Model Bordetella bronchiseptica (W=2500,T=10,N=33). . .
+Progress: 60/72
+Simulating Model Budding Yeast Cell Cycle 2009 (W=2500,T=10,N=18). . .
+Progress: 61/72
+Simulating Model Toll Pathway of Drosophila Signaling Pathway (W=2500,T=10,N=11). . .
+Progress: 62/72
 Simulating Model Arabidopsis thaliana Cell Cycle (W=2500,T=10,N=14). . .
-Progress: 73/74
-Simulating Model Apoptosis Network (W=2500,T=10,N=41). . .
-Progress: 74/74
-Simulating Model T-Cell Signaling 2006 (W=2500,T=400,N=40). . .
-Progress: 1/74
-Simulating Model IL-1 Signaling (W=2500,T=1180,N=118). . .
-Progress: 2/74
-Simulating Model CD4 T cell signaling (W=2500,T=1880,N=188). . .
-Progress: 3/74
+Progress: 63/72
+Simulating Model Yeast Apoptosis (W=2500,T=10,N=72). . .
+Progress: 64/72
+Simulating Model BT474 Breast Cell Line Short-term ErbB Network (W=2500,T=10,N=16). . .
+Progress: 65/72
+Simulating Model Processing of Spz Network from the Drosophila Signaling Pathway (W=2500,T=10,N=24). . .
+Progress: 66/72
+Simulating Model Wg Pathway of Drosophila Signalling Pathways (W=2500,T=10,N=26). . .
+Progress: 67/72
+Simulating Model T-LGL Survival Network 2008 (W=2500,T=10,N=60). . .
+Progress: 68/72
+Simulating Model Treatment of Castration-Resistant Prostate Cancer (W=2500,T=10,N=42). . .
+Progress: 69/72
+Simulating Model Metabolic Interactions in the Gut Microbiome (W=2500,T=10,N=12). . .
+Progress: 70/72
+Simulating Model FA BRCA pathway (W=2500,T=10,N=28). . .
+Progress: 71/72
+Simulating Model Trichostrongylus retortaeformis (W=2500,T=10,N=26). . .
+Progress: 72/72
 Simulating Model Death Receptor Signaling (W=2500,T=280,N=28). . .
-Progress: 4/74
-Simulating Model Lymphopoiesis Regulatory Network (W=2500,T=810,N=81). . .
-Progress: 5/74
-Simulating Model Lymphoid and myeloid cell specification and transdifferentiation (W=2500,T=330,N=33). . .
-Progress: 6/74
-Simulating Model TOL Regulatory Network (W=2500,T=240,N=24). . .
-Progress: 7/74
-Simulating Model T-LGL Survival Network 2011 (W=2500,T=600,N=60). . .
-Progress: 8/74
-Simulating Model HIV-1 interactions with T Cell Signalling Pathway (W=2500,T=1380,N=138). . .
-Progress: 9/74
-Simulating Model Oxidative Stress Pathway (W=2500,T=190,N=19). . .
-Progress: 10/74
-Simulating Model BT474 Breast Cell Line Short-term ErbB Network (W=2500,T=160,N=16). . .
-Progress: 11/74
-Simulating Model Stomatal Opening Model (W=2500,T=490,N=49). . .
-Progress: 12/74
-Simulating Model Septation Initiation Network (W=2500,T=310,N=31). . .
-Progress: 13/74
-Simulating Model B cell differentiation (W=2500,T=220,N=22). . .
-Progress: 14/74
-Simulating Model PC12 Cell Differentiation (W=2500,T=620,N=62). . .
-Progress: 15/74
-Simulating Model FGF pathway of Drosophila Signalling Pathways (W=2500,T=230,N=23). . .
-Progress: 16/74
-Simulating Model Fanconi anemia and checkpoint recovery (W=2500,T=150,N=15). . .
-Progress: 17/74
-Simulating Model Signal Transduction in Fibroblasts (W=2500,T=1390,N=139). . .
-Progress: 18/74
-Simulating Model Aurora Kinase A in Neuroblastoma (W=2500,T=230,N=23). . .
-Progress: 19/74
-Simulating Model CD4+ T cell Differentiation (W=2500,T=380,N=38). . .
-Progress: 20/74
-Simulating Model MAPK Cancer Cell Fate Network (W=2500,T=530,N=53). . .
-Progress: 21/74
-Simulating Model Treatment of Castration-Resistant Prostate Cancer (W=2500,T=420,N=42). . .
-Progress: 22/74
-Simulating Model Cardiac development (W=2500,T=150,N=15). . .
-Progress: 23/74
-Simulating Model HGF Signaling in Keratinocytes (W=2500,T=680,N=68). . .
-Progress: 24/74
-Simulating Model T Cell Receptor Signaling (W=2500,T=1010,N=101). . .
-Progress: 25/74
-Simulating Model HCC1954 Breast Cell Line Short-term ErbB Network (W=2500,T=160,N=16). . .
-Progress: 26/74
-Simulating Model Cortical Area Development (W=2500,T=50,N=5). . .
-Progress: 27/74
-Simulating Model Mammalian Cell Cycle 2006 (W=2500,T=100,N=10). . .
-Progress: 28/74
-Simulating Model Predicting Variabilities in Cardiac Gene (W=2500,T=150,N=15). . .
-Progress: 29/74
-Simulating Model Budding Yeast Cell Cycle (W=2500,T=200,N=20). . .
-Progress: 30/74
-Simulating Model Metabolic Interactions in the Gut Microbiome (W=2500,T=120,N=12). . .
-Progress: 31/74
-Simulating Model SKBR3 Breast Cell Line Short-term ErbB Network (W=2500,T=160,N=16). . .
-Progress: 32/74
-Simulating Model Wg Pathway of Drosophila Signalling Pathways (W=2500,T=260,N=26). . .
-Progress: 33/74
-Simulating Model FA BRCA pathway (W=2500,T=280,N=28). . .
-Progress: 34/74
+Progress: 1/72
 Simulating Model Cell Cycle Transcription by Coupled CDK and Network Oscillators (W=2500,T=90,N=9). . .
-Progress: 35/74
-Simulating Model T-LGL Survival Network 2008 (W=2500,T=610,N=61). . .
-Progress: 36/74
-Simulating Model Toll Pathway of Drosophila Signaling Pathway (W=2500,T=110,N=11). . .
-Progress: 37/74
-Simulating Model Pro-inflammatory Tumor Microenvironment in Acute Lymphoblastic Leukemia (W=2500,T=260,N=26). . .
-Progress: 38/74
-Simulating Model Yeast Apoptosis (W=2500,T=730,N=73). . .
-Progress: 39/74
-Simulating Model Budding Yeast Cell Cycle 2009 (W=2500,T=180,N=18). . .
-Progress: 40/74
-Simulating Model Iron acquisition and oxidative stress response in aspergillus fumigatus (W=2500,T=220,N=22). . .
-Progress: 41/74
-Simulating Model BT474 Breast Cell Line Long-term ErbB Network (W=2500,T=250,N=25). . .
-Progress: 42/74
-Simulating Model Bordetella bronchiseptica (W=2500,T=330,N=33). . .
-Progress: 43/74
-Simulating Model B bronchiseptica and T retortaeformis coinfection (W=2500,T=530,N=53). . .
-Progress: 44/74
-Simulating Model EGFR & ErbB Signaling (W=2500,T=1040,N=104). . .
-Progress: 45/74
-Simulating Model Processing of Spz Network from the Drosophila Signaling Pathway (W=2500,T=240,N=24). . .
-Progress: 46/74
-Simulating Model Colitis-associated colon cancer (W=2500,T=700,N=70). . .
-Progress: 47/74
-Simulating Model Guard Cell Abscisic Acid Signaling (W=2500,T=440,N=44). . .
-Progress: 48/74
-Simulating Model IGVH mutations in chronic lymphocytic leukemia (W=2500,T=910,N=91). . .
-Progress: 49/74
-Simulating Model HH Pathway of Drosophila Signaling Pathways (W=2500,T=240,N=24). . .
-Progress: 50/74
-Simulating Model Differentiation of T lymphocytes (W=2500,T=500,N=50). . .
-Progress: 51/74
-Simulating Model Lac Operon (W=2500,T=130,N=13). . .
-Progress: 52/74
-Simulating Model Tumour Cell Invasion and Migration (W=2500,T=320,N=32). . .
-Progress: 53/74
-Simulating Model Regulation of the L-arabinose operon of Escherichia coli (W=2500,T=130,N=13). . .
-Progress: 54/74
-Simulating Model Neurotransmitter Signaling Pathway (W=2500,T=160,N=16). . .
-Progress: 55/74
-Simulating Model SKBR3 Breast Cell Line Long-term ErbB Network (W=2500,T=250,N=25). . .
-Progress: 56/74
-Simulating Model Senescence Associated Secretory Phenotype (W=2500,T=510,N=51). . .
-Progress: 57/74
-Simulating Model Mammalian Cell Cycle (W=2500,T=200,N=20). . .
-Progress: 58/74
-Simulating Model Signaling Pathway for Butanol Production in Clostridium beijerinckii NRRL B-598 (W=2500,T=660,N=66). . .
-Progress: 59/74
-Simulating Model Cholesterol Regulatory Pathway (W=2500,T=340,N=34). . .
-Progress: 60/74
-Simulating Model Glucose Repression Signaling 2009 (W=2500,T=730,N=73). . .
-Progress: 61/74
-Simulating Model IL-6 Signalling (W=2500,T=860,N=86). . .
-Progress: 62/74
-Simulating Model VEGF Pathway of Drosophila Signaling Pathway (W=2500,T=180,N=18). . .
-Progress: 63/74
-Simulating Model Influenza A Virus Replication Cycle (W=2500,T=1310,N=131). . .
-Progress: 64/74
-Simulating Model T-LGL Survival Network 2011 Reduced Network (W=2500,T=180,N=18). . .
-Progress: 65/74
-Simulating Model T cell differentiation (W=2500,T=230,N=23). . .
-Progress: 66/74
-Simulating Model Signaling in Macrophage Activation (W=2500,T=3210,N=321). . .
-Progress: 67/74
-Simulating Model Trichostrongylus retortaeformis (W=2500,T=260,N=26). . .
-Progress: 68/74
-Simulating Model HCC1954 Breast Cell Line Long-term ErbB Network (W=2500,T=250,N=25). . .
-Progress: 69/74
-Simulating Model Human Gonadal Sex Determination (W=2500,T=190,N=19). . .
-Progress: 70/74
-Simulating Model CD4+ T Cell Differentiation and Plasticity (W=2500,T=180,N=18). . .
-Progress: 71/74
-Simulating Model Bortezomib Responses in U266 Human Myeloma Cells (W=2500,T=670,N=67). . .
-Progress: 72/74
-Simulating Model Arabidopsis thaliana Cell Cycle (W=2500,T=140,N=14). . .
-Progress: 73/74
+Progress: 2/72
 Simulating Model Apoptosis Network (W=2500,T=410,N=41). . .
-Progress: 74/74
+Progress: 3/72
+Simulating Model SKBR3 Breast Cell Line Long-term ErbB Network (W=2500,T=250,N=25). . .
+Progress: 4/72
+Simulating Model TOL Regulatory Network (W=2500,T=240,N=24). . .
+Progress: 5/72
+Simulating Model T-LGL Survival Network 2011 Reduced Network (W=2500,T=180,N=18). . .
+Progress: 6/72
+Simulating Model Stomatal Opening Model (W=2500,T=490,N=49). . .
+Progress: 7/72
+Simulating Model T Cell Receptor Signaling (W=2500,T=980,N=98). . .
+Progress: 8/72
+Simulating Model B cell differentiation (W=2500,T=220,N=22). . .
+Progress: 9/72
+Simulating Model BT474 Breast Cell Line Long-term ErbB Network (W=2500,T=240,N=24). . .
+Progress: 10/72
+Simulating Model Signaling in Macrophage Activation (W=2500,T=3200,N=320). . .
+Progress: 11/72
+Simulating Model Oxidative Stress Pathway (W=2500,T=190,N=19). . .
+Progress: 12/72
+Simulating Model B bronchiseptica and T retortaeformis coinfection (W=2500,T=530,N=53). . .
+Progress: 13/72
+Simulating Model Mammalian Cell Cycle 2006 (W=2500,T=100,N=10). . .
+Progress: 14/72
+Simulating Model Cortical Area Development (W=2500,T=50,N=5). . .
+Progress: 15/72
+Simulating Model HCC1954 Breast Cell Line Short-term ErbB Network (W=2500,T=160,N=16). . .
+Progress: 16/72
+Simulating Model Tumour Cell Invasion and Migration (W=2500,T=320,N=32). . .
+Progress: 17/72
+Simulating Model HGF Signaling in Keratinocytes (W=2500,T=680,N=68). . .
+Progress: 18/72
+Simulating Model IGVH mutations in chronic lymphocytic leukemia (W=2500,T=910,N=91). . .
+Progress: 19/72
+Simulating Model Guard Cell Abscisic Acid Signaling (W=2500,T=440,N=44). . .
+Progress: 20/72
+Simulating Model VEGF Pathway of Drosophila Signaling Pathway (W=2500,T=180,N=18). . .
+Progress: 21/72
+Simulating Model Regulation of the L-arabinose operon of Escherichia coli (W=2500,T=130,N=13). . .
+Progress: 22/72
+Simulating Model HH Pathway of Drosophila Signaling Pathways (W=2500,T=240,N=24). . .
+Progress: 23/72
+Simulating Model Lac Operon (W=2500,T=130,N=13). . .
+Progress: 24/72
+Simulating Model PC12 Cell Differentiation (W=2500,T=620,N=62). . .
+Progress: 25/72
+Simulating Model IL-6 Signalling (W=2500,T=860,N=86). . .
+Progress: 26/72
+Simulating Model Pro-inflammatory Tumor Microenvironment in Acute Lymphoblastic Leukemia (W=2500,T=260,N=26). . .
+Progress: 27/72
+Simulating Model Differentiation of T lymphocytes (W=2500,T=500,N=50). . .
+Progress: 28/72
+Simulating Model EGFR & ErbB Signaling (W=2500,T=1040,N=104). . .
+Progress: 29/72
+Simulating Model Cardiac development (W=2500,T=150,N=15). . .
+Progress: 30/72
+Simulating Model CD4 T cell signaling (W=2500,T=1880,N=188). . .
+Progress: 31/72
+Simulating Model Budding Yeast Cell Cycle (W=2500,T=200,N=20). . .
+Progress: 32/72
+Simulating Model Neurotransmitter Signaling Pathway (W=2500,T=160,N=16). . .
+Progress: 33/72
+Simulating Model Bortezomib Responses in U266 Human Myeloma Cells (W=2500,T=670,N=67). . .
+Progress: 34/72
+Simulating Model Lymphoid and myeloid cell specification and transdifferentiation (W=2500,T=330,N=33). . .
+Progress: 35/72
+Simulating Model IL-1 Signaling (W=2500,T=1180,N=118). . .
+Progress: 36/72
+Simulating Model Iron acquisition and oxidative stress response in aspergillus fumigatus (W=2500,T=220,N=22). . .
+Progress: 37/72
+Simulating Model HCC1954 Breast Cell Line Long-term ErbB Network (W=2500,T=230,N=23). . .
+Progress: 38/72
+Simulating Model T-LGL Survival Network 2011 (W=2500,T=600,N=60). . .
+Progress: 39/72
+Simulating Model FGF pathway of Drosophila Signalling Pathways (W=2500,T=230,N=23). . .
+Progress: 40/72
+Simulating Model Colitis-associated colon cancer (W=2500,T=700,N=70). . .
+Progress: 41/72
+Simulating Model HIV-1 interactions with T Cell Signalling Pathway (W=2500,T=1380,N=138). . .
+Progress: 42/72
+Simulating Model Glucose Repression Signaling 2009 (W=2500,T=730,N=73). . .
+Progress: 43/72
+Simulating Model Cholesterol Regulatory Pathway (W=2500,T=340,N=34). . .
+Progress: 44/72
+Simulating Model CD4+ T Cell Differentiation and Plasticity (W=2500,T=180,N=18). . .
+Progress: 45/72
+Simulating Model Senescence Associated Secretory Phenotype (W=2500,T=510,N=51). . .
+Progress: 46/72
+Simulating Model SKBR3 Breast Cell Line Short-term ErbB Network (W=2500,T=160,N=16). . .
+Progress: 47/72
+Simulating Model CD4+ T cell Differentiation (W=2500,T=380,N=38). . .
+Progress: 48/72
+Simulating Model Aurora Kinase A in Neuroblastoma (W=2500,T=230,N=23). . .
+Progress: 49/72
+Simulating Model T cell differentiation (W=2500,T=230,N=23). . .
+Progress: 50/72
+Simulating Model MAPK Cancer Cell Fate Network (W=2500,T=530,N=53). . .
+Progress: 51/72
+Simulating Model Fanconi anemia and checkpoint recovery (W=2500,T=150,N=15). . .
+Progress: 52/72
+Simulating Model Influenza A Virus Replication Cycle (W=2500,T=1310,N=131). . .
+Progress: 53/72
+Simulating Model Mammalian Cell Cycle (W=2500,T=200,N=20). . .
+Progress: 54/72
+Simulating Model Human Gonadal Sex Determination (W=2500,T=190,N=19). . .
+Progress: 55/72
+Simulating Model Lymphopoiesis Regulatory Network (W=2500,T=810,N=81). . .
+Progress: 56/72
+Simulating Model Signal Transduction in Fibroblasts (W=2500,T=1390,N=139). . .
+Progress: 57/72
+Simulating Model T-Cell Signaling 2006 (W=2500,T=400,N=40). . .
+Progress: 58/72
+Simulating Model Septation Initiation Network (W=2500,T=300,N=30). . .
+Progress: 59/72
+Simulating Model Bordetella bronchiseptica (W=2500,T=330,N=33). . .
+Progress: 60/72
+Simulating Model Budding Yeast Cell Cycle 2009 (W=2500,T=180,N=18). . .
+Progress: 61/72
+Simulating Model Toll Pathway of Drosophila Signaling Pathway (W=2500,T=110,N=11). . .
+Progress: 62/72
+Simulating Model Arabidopsis thaliana Cell Cycle (W=2500,T=140,N=14). . .
+Progress: 63/72
+Simulating Model Yeast Apoptosis (W=2500,T=720,N=72). . .
+Progress: 64/72
+Simulating Model BT474 Breast Cell Line Short-term ErbB Network (W=2500,T=160,N=16). . .
+Progress: 65/72
+Simulating Model Processing of Spz Network from the Drosophila Signaling Pathway (W=2500,T=240,N=24). . .
+Progress: 66/72
+Simulating Model Wg Pathway of Drosophila Signalling Pathways (W=2500,T=260,N=26). . .
+Progress: 67/72
+Simulating Model T-LGL Survival Network 2008 (W=2500,T=600,N=60). . .
+Progress: 68/72
+Simulating Model Treatment of Castration-Resistant Prostate Cancer (W=2500,T=420,N=42). . .
+Progress: 69/72
+Simulating Model Metabolic Interactions in the Gut Microbiome (W=2500,T=120,N=12). . .
+Progress: 70/72
+Simulating Model FA BRCA pathway (W=2500,T=280,N=28). . .
+Progress: 71/72
+Simulating Model Trichostrongylus retortaeformis (W=2500,T=260,N=26). . .
+Progress: 72/72
+Simulating Model Death Receptor Signaling (W=2500,T=10,N=28). . .
+Progress: 1/72
+Simulating Model Cell Cycle Transcription by Coupled CDK and Network Oscillators (W=2500,T=10,N=9). . .
+Progress: 2/72
+Simulating Model Apoptosis Network (W=2500,T=10,N=41). . .
+Progress: 3/72
+Simulating Model SKBR3 Breast Cell Line Long-term ErbB Network (W=2500,T=10,N=25). . .
+Progress: 4/72
+Simulating Model TOL Regulatory Network (W=2500,T=10,N=24). . .
+Progress: 5/72
+Simulating Model T-LGL Survival Network 2011 Reduced Network (W=2500,T=10,N=18). . .
+Progress: 6/72
+Simulating Model Stomatal Opening Model (W=2500,T=10,N=49). . .
+Progress: 7/72
+Simulating Model T Cell Receptor Signaling (W=2500,T=10,N=98). . .
+Progress: 8/72
+Simulating Model B cell differentiation (W=2500,T=10,N=22). . .
+Progress: 9/72
+Simulating Model BT474 Breast Cell Line Long-term ErbB Network (W=2500,T=10,N=24). . .
+Progress: 10/72
+Simulating Model Signaling in Macrophage Activation (W=2500,T=10,N=320). . .
+Progress: 11/72
+Simulating Model Oxidative Stress Pathway (W=2500,T=10,N=19). . .
+Progress: 12/72
+Simulating Model B bronchiseptica and T retortaeformis coinfection (W=2500,T=10,N=53). . .
+Progress: 13/72
+Simulating Model Mammalian Cell Cycle 2006 (W=2500,T=10,N=10). . .
+Progress: 14/72
+Simulating Model Cortical Area Development (W=2500,T=10,N=5). . .
+Progress: 15/72
+Simulating Model HCC1954 Breast Cell Line Short-term ErbB Network (W=2500,T=10,N=16). . .
+Progress: 16/72
+Simulating Model Tumour Cell Invasion and Migration (W=2500,T=10,N=32). . .
+Progress: 17/72
+Simulating Model HGF Signaling in Keratinocytes (W=2500,T=10,N=68). . .
+Progress: 18/72
+Simulating Model IGVH mutations in chronic lymphocytic leukemia (W=2500,T=10,N=91). . .
+Progress: 19/72
+Simulating Model Guard Cell Abscisic Acid Signaling (W=2500,T=10,N=44). . .
+Progress: 20/72
+Simulating Model VEGF Pathway of Drosophila Signaling Pathway (W=2500,T=10,N=18). . .
+Progress: 21/72
+Simulating Model Regulation of the L-arabinose operon of Escherichia coli (W=2500,T=10,N=13). . .
+Progress: 22/72
+Simulating Model HH Pathway of Drosophila Signaling Pathways (W=2500,T=10,N=24). . .
+Progress: 23/72
+Simulating Model Lac Operon (W=2500,T=10,N=13). . .
+Progress: 24/72
+Simulating Model PC12 Cell Differentiation (W=2500,T=10,N=62). . .
+Progress: 25/72
+Simulating Model IL-6 Signalling (W=2500,T=10,N=86). . .
+Progress: 26/72
+Simulating Model Pro-inflammatory Tumor Microenvironment in Acute Lymphoblastic Leukemia (W=2500,T=10,N=26). . .
+Progress: 27/72
+Simulating Model Differentiation of T lymphocytes (W=2500,T=10,N=50). . .
+Progress: 28/72
+Simulating Model EGFR & ErbB Signaling (W=2500,T=10,N=104). . .
+Progress: 29/72
+Simulating Model Cardiac development (W=2500,T=10,N=15). . .
+Progress: 30/72
+Simulating Model CD4 T cell signaling (W=2500,T=10,N=188). . .
+Progress: 31/72
+Simulating Model Budding Yeast Cell Cycle (W=2500,T=10,N=20). . .
+Progress: 32/72
+Simulating Model Neurotransmitter Signaling Pathway (W=2500,T=10,N=16). . .
+Progress: 33/72
+Simulating Model Bortezomib Responses in U266 Human Myeloma Cells (W=2500,T=10,N=67). . .
+Progress: 34/72
+Simulating Model Lymphoid and myeloid cell specification and transdifferentiation (W=2500,T=10,N=33). . .
+Progress: 35/72
+Simulating Model IL-1 Signaling (W=2500,T=10,N=118). . .
+Progress: 36/72
+Simulating Model Iron acquisition and oxidative stress response in aspergillus fumigatus (W=2500,T=10,N=22). . .
+Progress: 37/72
+Simulating Model HCC1954 Breast Cell Line Long-term ErbB Network (W=2500,T=10,N=23). . .
+Progress: 38/72
+Simulating Model T-LGL Survival Network 2011 (W=2500,T=10,N=60). . .
+Progress: 39/72
+Simulating Model FGF pathway of Drosophila Signalling Pathways (W=2500,T=10,N=23). . .
+Progress: 40/72
+Simulating Model Colitis-associated colon cancer (W=2500,T=10,N=70). . .
+Progress: 41/72
+Simulating Model HIV-1 interactions with T Cell Signalling Pathway (W=2500,T=10,N=138). . .
+Progress: 42/72
+Simulating Model Glucose Repression Signaling 2009 (W=2500,T=10,N=73). . .
+Progress: 43/72
+Simulating Model Cholesterol Regulatory Pathway (W=2500,T=10,N=34). . .
+Progress: 44/72
+Simulating Model CD4+ T Cell Differentiation and Plasticity (W=2500,T=10,N=18). . .
+Progress: 45/72
+Simulating Model Senescence Associated Secretory Phenotype (W=2500,T=10,N=51). . .
+Progress: 46/72
+Simulating Model SKBR3 Breast Cell Line Short-term ErbB Network (W=2500,T=10,N=16). . .
+Progress: 47/72
+Simulating Model CD4+ T cell Differentiation (W=2500,T=10,N=38). . .
+Progress: 48/72
+Simulating Model Aurora Kinase A in Neuroblastoma (W=2500,T=10,N=23). . .
+Progress: 49/72
+Simulating Model T cell differentiation (W=2500,T=10,N=23). . .
+Progress: 50/72
+Simulating Model MAPK Cancer Cell Fate Network (W=2500,T=10,N=53). . .
+Progress: 51/72
+Simulating Model Fanconi anemia and checkpoint recovery (W=2500,T=10,N=15). . .
+Progress: 52/72
+Simulating Model Influenza A Virus Replication Cycle (W=2500,T=10,N=131). . .
+Progress: 53/72
+Simulating Model Mammalian Cell Cycle (W=2500,T=10,N=20). . .
+Progress: 54/72
+Simulating Model Human Gonadal Sex Determination (W=2500,T=10,N=19). . .
+Progress: 55/72
+Simulating Model Lymphopoiesis Regulatory Network (W=2500,T=10,N=81). . .
+Progress: 56/72
+Simulating Model Signal Transduction in Fibroblasts (W=2500,T=10,N=139). . .
+Progress: 57/72
+Simulating Model T-Cell Signaling 2006 (W=2500,T=10,N=40). . .
+Progress: 58/72
+Simulating Model Septation Initiation Network (W=2500,T=10,N=30). . .
+Progress: 59/72
+Simulating Model Bordetella bronchiseptica (W=2500,T=10,N=33). . .
+Progress: 60/72
+Simulating Model Budding Yeast Cell Cycle 2009 (W=2500,T=10,N=18). . .
+Progress: 61/72
+Simulating Model Toll Pathway of Drosophila Signaling Pathway (W=2500,T=10,N=11). . .
+Progress: 62/72
+Simulating Model Arabidopsis thaliana Cell Cycle (W=2500,T=10,N=14). . .
+Progress: 63/72
+Simulating Model Yeast Apoptosis (W=2500,T=10,N=72). . .
+Progress: 64/72
+Simulating Model BT474 Breast Cell Line Short-term ErbB Network (W=2500,T=10,N=16). . .
+Progress: 65/72
+Simulating Model Processing of Spz Network from the Drosophila Signaling Pathway (W=2500,T=10,N=24). . .
+Progress: 66/72
+Simulating Model Wg Pathway of Drosophila Signalling Pathways (W=2500,T=10,N=26). . .
+Progress: 67/72
+Simulating Model T-LGL Survival Network 2008 (W=2500,T=10,N=60). . .
+Progress: 68/72
+Simulating Model Treatment of Castration-Resistant Prostate Cancer (W=2500,T=10,N=42). . .
+Progress: 69/72
+Simulating Model Metabolic Interactions in the Gut Microbiome (W=2500,T=10,N=12). . .
+Progress: 70/72
+Simulating Model FA BRCA pathway (W=2500,T=10,N=28). . .
+Progress: 71/72
+Simulating Model Trichostrongylus retortaeformis (W=2500,T=10,N=26). . .
+Progress: 72/72
+Simulating Model Death Receptor Signaling (W=2500,T=280,N=28). . .
+Progress: 1/72
+Simulating Model Cell Cycle Transcription by Coupled CDK and Network Oscillators (W=2500,T=90,N=9). . .
+Progress: 2/72
+Simulating Model Apoptosis Network (W=2500,T=410,N=41). . .
+Progress: 3/72
+Simulating Model SKBR3 Breast Cell Line Long-term ErbB Network (W=2500,T=250,N=25). . .
+Progress: 4/72
+Simulating Model TOL Regulatory Network (W=2500,T=240,N=24). . .
+Progress: 5/72
+Simulating Model T-LGL Survival Network 2011 Reduced Network (W=2500,T=180,N=18). . .
+Progress: 6/72
+Simulating Model Stomatal Opening Model (W=2500,T=490,N=49). . .
+Progress: 7/72
+Simulating Model T Cell Receptor Signaling (W=2500,T=980,N=98). . .
+Progress: 8/72
+Simulating Model B cell differentiation (W=2500,T=220,N=22). . .
+Progress: 9/72
+Simulating Model BT474 Breast Cell Line Long-term ErbB Network (W=2500,T=240,N=24). . .
+Progress: 10/72
+Simulating Model Signaling in Macrophage Activation (W=2500,T=3200,N=320). . .
+Progress: 11/72
+Simulating Model Oxidative Stress Pathway (W=2500,T=190,N=19). . .
+Progress: 12/72
+Simulating Model B bronchiseptica and T retortaeformis coinfection (W=2500,T=530,N=53). . .
+Progress: 13/72
+Simulating Model Mammalian Cell Cycle 2006 (W=2500,T=100,N=10). . .
+Progress: 14/72
+Simulating Model Cortical Area Development (W=2500,T=50,N=5). . .
+Progress: 15/72
+Simulating Model HCC1954 Breast Cell Line Short-term ErbB Network (W=2500,T=160,N=16). . .
+Progress: 16/72
+Simulating Model Tumour Cell Invasion and Migration (W=2500,T=320,N=32). . .
+Progress: 17/72
+Simulating Model HGF Signaling in Keratinocytes (W=2500,T=680,N=68). . .
+Progress: 18/72
+Simulating Model IGVH mutations in chronic lymphocytic leukemia (W=2500,T=910,N=91). . .
+Progress: 19/72
+Simulating Model Guard Cell Abscisic Acid Signaling (W=2500,T=440,N=44). . .
+Progress: 20/72
+Simulating Model VEGF Pathway of Drosophila Signaling Pathway (W=2500,T=180,N=18). . .
+Progress: 21/72
+Simulating Model Regulation of the L-arabinose operon of Escherichia coli (W=2500,T=130,N=13). . .
+Progress: 22/72
+Simulating Model HH Pathway of Drosophila Signaling Pathways (W=2500,T=240,N=24). . .
+Progress: 23/72
+Simulating Model Lac Operon (W=2500,T=130,N=13). . .
+Progress: 24/72
+Simulating Model PC12 Cell Differentiation (W=2500,T=620,N=62). . .
+Progress: 25/72
+Simulating Model IL-6 Signalling (W=2500,T=860,N=86). . .
+Progress: 26/72
+Simulating Model Pro-inflammatory Tumor Microenvironment in Acute Lymphoblastic Leukemia (W=2500,T=260,N=26). . .
+Progress: 27/72
+Simulating Model Differentiation of T lymphocytes (W=2500,T=500,N=50). . .
+Progress: 28/72
+Simulating Model EGFR & ErbB Signaling (W=2500,T=1040,N=104). . .
+Progress: 29/72
+Simulating Model Cardiac development (W=2500,T=150,N=15). . .
+Progress: 30/72
+Simulating Model CD4 T cell signaling (W=2500,T=1880,N=188). . .
+Progress: 31/72
+Simulating Model Budding Yeast Cell Cycle (W=2500,T=200,N=20). . .
+Progress: 32/72
+Simulating Model Neurotransmitter Signaling Pathway (W=2500,T=160,N=16). . .
+Progress: 33/72
+Simulating Model Bortezomib Responses in U266 Human Myeloma Cells (W=2500,T=670,N=67). . .
+Progress: 34/72
+Simulating Model Lymphoid and myeloid cell specification and transdifferentiation (W=2500,T=330,N=33). . .
+Progress: 35/72
+Simulating Model IL-1 Signaling (W=2500,T=1180,N=118). . .
+Progress: 36/72
+Simulating Model Iron acquisition and oxidative stress response in aspergillus fumigatus (W=2500,T=220,N=22). . .
+Progress: 37/72
+Simulating Model HCC1954 Breast Cell Line Long-term ErbB Network (W=2500,T=230,N=23). . .
+Progress: 38/72
+Simulating Model T-LGL Survival Network 2011 (W=2500,T=600,N=60). . .
+Progress: 39/72
+Simulating Model FGF pathway of Drosophila Signalling Pathways (W=2500,T=230,N=23). . .
+Progress: 40/72
+Simulating Model Colitis-associated colon cancer (W=2500,T=700,N=70). . .
+Progress: 41/72
+Simulating Model HIV-1 interactions with T Cell Signalling Pathway (W=2500,T=1380,N=138). . .
+Progress: 42/72
+Simulating Model Glucose Repression Signaling 2009 (W=2500,T=730,N=73). . .
+Progress: 43/72
+Simulating Model Cholesterol Regulatory Pathway (W=2500,T=340,N=34). . .
+Progress: 44/72
+Simulating Model CD4+ T Cell Differentiation and Plasticity (W=2500,T=180,N=18). . .
+Progress: 45/72
+Simulating Model Senescence Associated Secretory Phenotype (W=2500,T=510,N=51). . .
+Progress: 46/72
+Simulating Model SKBR3 Breast Cell Line Short-term ErbB Network (W=2500,T=160,N=16). . .
+Progress: 47/72
+Simulating Model CD4+ T cell Differentiation (W=2500,T=380,N=38). . .
+Progress: 48/72
+Simulating Model Aurora Kinase A in Neuroblastoma (W=2500,T=230,N=23). . .
+Progress: 49/72
+Simulating Model T cell differentiation (W=2500,T=230,N=23). . .
+Progress: 50/72
+Simulating Model MAPK Cancer Cell Fate Network (W=2500,T=530,N=53). . .
+Progress: 51/72
+Simulating Model Fanconi anemia and checkpoint recovery (W=2500,T=150,N=15). . .
+Progress: 52/72
+Simulating Model Influenza A Virus Replication Cycle (W=2500,T=1310,N=131). . .
+Progress: 53/72
+Simulating Model Mammalian Cell Cycle (W=2500,T=200,N=20). . .
+Progress: 54/72
+Simulating Model Human Gonadal Sex Determination (W=2500,T=190,N=19). . .
+Progress: 55/72
+Simulating Model Lymphopoiesis Regulatory Network (W=2500,T=810,N=81). . .
+Progress: 56/72
+Simulating Model Signal Transduction in Fibroblasts (W=2500,T=1390,N=139). . .
+Progress: 57/72
+Simulating Model T-Cell Signaling 2006 (W=2500,T=400,N=40). . .
+Progress: 58/72
+Simulating Model Septation Initiation Network (W=2500,T=300,N=30). . .
+Progress: 59/72
+Simulating Model Bordetella bronchiseptica (W=2500,T=330,N=33). . .
+Progress: 60/72
+Simulating Model Budding Yeast Cell Cycle 2009 (W=2500,T=180,N=18). . .
+Progress: 61/72
+Simulating Model Toll Pathway of Drosophila Signaling Pathway (W=2500,T=110,N=11). . .
+Progress: 62/72
+Simulating Model Arabidopsis thaliana Cell Cycle (W=2500,T=140,N=14). . .
+Progress: 63/72
+Simulating Model Yeast Apoptosis (W=2500,T=720,N=72). . .
+Progress: 64/72
+Simulating Model BT474 Breast Cell Line Short-term ErbB Network (W=2500,T=160,N=16). . .
+Progress: 65/72
+Simulating Model Processing of Spz Network from the Drosophila Signaling Pathway (W=2500,T=240,N=24). . .
+Progress: 66/72
+Simulating Model Wg Pathway of Drosophila Signalling Pathways (W=2500,T=260,N=26). . .
+Progress: 67/72
+Simulating Model T-LGL Survival Network 2008 (W=2500,T=600,N=60). . .
+Progress: 68/72
+Simulating Model Treatment of Castration-Resistant Prostate Cancer (W=2500,T=420,N=42). . .
+Progress: 69/72
+Simulating Model Metabolic Interactions in the Gut Microbiome (W=2500,T=120,N=12). . .
+Progress: 70/72
+Simulating Model FA BRCA pathway (W=2500,T=280,N=28). . .
+Progress: 71/72
+Simulating Model Trichostrongylus retortaeformis (W=2500,T=260,N=26). . .
+Progress: 72/72

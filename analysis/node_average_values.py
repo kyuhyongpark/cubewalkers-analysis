@@ -1,17 +1,24 @@
-# %%
 import cubewalkers as cw
 import cupy as cp
 from copy import deepcopy
 
-# %%
 IMPORT_RULES_FROM_FILES = True
-cc_models_dir = './models/cell_collective/'
+CORRECTED_MODELS = True
+
+if CORRECTED_MODELS:
+    models_dir = './models/corrected_models/'
+    IMPORT_RULES_FROM_FILES = True # The corrections are only available in files
+    OutFileName = './data/corrected_models/converged_average_node_values.csv'
+else:
+    models_dir = './models/cell_collective/'
+    OutFileName = './data/cell_collective/converged_average_node_values.csv'
+
 if IMPORT_RULES_FROM_FILES:
     from os import listdir
     
     sync_models = {}
-    for fname in listdir(cc_models_dir):
-        with open(cc_models_dir+fname) as rulefile:
+    for fname in listdir(models_dir):
+        with open(models_dir+fname) as rulefile:
             name = fname.strip('.txt')
             rules = rulefile.read()
             sync_models[name]=cw.Model(rules)
@@ -28,7 +35,6 @@ else:
 total_models = len(sync_models)
 async_models = deepcopy(sync_models)
 
-# %%
 def simulate_models(models, sync=True ,W=2500):
     convergence_measures = {}
     for model_idx, (model_name, model) in enumerate(models.items()):
@@ -66,26 +72,16 @@ def simulate_models(models, sync=True ,W=2500):
         print(f"Progress: {(model_idx+1)}/{total_models},\t maximum difference: {convergence_measures[model_name]}")
     return convergence_measures
 
-# %%
 sync_convergence_measures=simulate_models(sync_models,sync=True)
 
-# %%
 async_convergence_measures=simulate_models(async_models,sync=False)
 
-# %%
 print(f'{max(sync_convergence_measures.values())}')
 print(f'{max(async_convergence_measures.values())}')
 
-# %%
-with open('./data/converged_average_node_values.csv','w') as f:
+with open(OutFileName,'w') as f:
     for model_name, smodel, amodel in [(k,sync_models[k],async_models[k]) for k in sorted(async_models)]:
         straj = ','.join(map(lambda x: str(cp.round(x,3)),cp.mean(smodel.trajectories,axis=0)))
         atraj = ','.join(map(lambda x: str(cp.round(x,3)),cp.mean(amodel.trajectories,axis=0)))
         f.write(f'{model_name},{cp.round(sync_convergence_measures[model_name],3)},synchronous,{straj}\n')
         f.write(f'{model_name},{cp.round(async_convergence_measures[model_name],3)},asynchronous,{atraj}\n')
-    
-
-# %%
-
-
-

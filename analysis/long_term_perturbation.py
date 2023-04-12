@@ -8,7 +8,16 @@ import cupy as cp
 from copy import deepcopy
 
 IMPORT_RULES_FROM_FILES = True
-cc_models_dir = './models/cell_collective/'
+CORRECTED_MODELS = True
+
+if CORRECTED_MODELS:
+    models_dir = './models/corrected_models/'
+    IMPORT_RULES_FROM_FILES = True # The corrections are only available in files
+    OutFileName = './data/corrected_models/{comb}.csv'
+else:
+    models_dir = './models/cell_collective/'
+    OutFileName = './data/cell_collective/{comb}.csv'
+    
 
 DEBUG_USING_SHORT_TIME = False # IF TRUE, OUTPUTS WILL NOT HAVE TIME TO CONVERGE; ONLY MODIFY IT TO GENERATE RESULTS
 GLOBAL_WALKER_COUNT = 2500
@@ -123,7 +132,7 @@ def simulate_models(models, sync, difficult_models=None):
         print(f"Progress: {(model_idx+1)}/{total_models}")
     return results
 
-models = import_models(cc_models_dir, IMPORT_RULES_FROM_FILES=IMPORT_RULES_FROM_FILES)
+models = import_models(models_dir, IMPORT_RULES_FROM_FILES=IMPORT_RULES_FROM_FILES)
 total_models = len(models)
 
 difficult_models = {
@@ -142,7 +151,7 @@ headers = ['model name, SQC, AQC\n',
            'model name, SFHDNS, AHFDNS\n']
 
 for i, comb in enumerate(COMBINATIONS_TO_SIMULATE):
-    filestring = f'./data/{comb}.csv'
+    filestring = OutFileName.format(comb = comb)
 
     with open(filestring,'w') as f:
         f.write(headers[i])

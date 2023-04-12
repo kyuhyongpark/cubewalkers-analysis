@@ -1,0 +1,23 @@
+model name, correction
+Stomatal Opening Model,extra constraints from the original paper: CO2_high=1 & CO2=0 is not a valid combination
+T Cell Receptor Signaling,constant nodes from the original paper: lckr_input=1 & unknown_input=1 & unknown_input2=0 & unknown_input3=1
+BT474 Breast Cell Line Long-term ErbB Network,deleted isolated node: BAX
+Signaling in Macrophage Activation,constant node from the original paper: External_Activator=1
+HGF Signaling in Keratinocytes,constant nodes from the original paper: AKAP12=PTEN=DUSP1=0 & PAI-1=1
+Guard Cell Abscisic Acid Signaling,constant nodes from the original paper: ABH1=ERA1=GCR1=1
+Regulation of the L-arabinose operon of Escherichia coli,constraint from the original paper: Ae=1 & Aem=0 is not a valid combination
+Lac Operon,constraint from the original paper: Le=1 & Lem=0 is not a valid combination
+IL-6 Signalling,constant nodes from the original model: cyt_ptpe=gp130m=nfkb=phlpp=pias1=pias3=pten=ros=ship=sirp1a=slim=0 & gab1_kin=mtor=pdk1=1
+EGFR & ErbB Signaling,constant nodes from the original paper: erbb1=erbb2=erbb3=erbb4=pten=ship2=csrc=pdk1=esp8r=mtorr=pi3kr=sos1r=1 & mkp=pp2a=pp2b=0
+CD4 T cell signaling,constant nodes from the original paper: CAV1_ACTIVATOR=0
+Bortezomib Responses in U266 Human Myeloma Cells,constant nodes from the original paper: TNFA=TNFAR=X=1 & SHP1=0
+IL-1 Signaling,constant nodes from the original paper: abin2=ck2=ikka=ikkb=mtorc2=pdk1=1 & irakm=pten=sil1r12=smyd88=socs1=socs3=0
+HCC1954 Breast Cell Line Long-term ErbB Network,deleted isolated nodes: Nfkb & BAX
+T-LGL Survival Network 2011,constant nodes from the original paper: TAX=CD45=0
+HIV-1 interactions with T Cell Signalling Pathway,constant nodes from the original paper: antigen=BCAR1=CD45=Chemokine=CRKL=DLGH1=GADD45=GRKL=ICOS=IKBNFKB=PDCD1_PD1=1 & RASA=0
+Glucose Repression Signaling 2009,constant nodes from the orignal paper: GAL11=GAL2=GAL80=GLC7=GRR1=MALT=MIG1=REG1=RGT1=RGT2=SNF1=SNF3=SNF4=STD1=YCK1_2=1
+Septation Initiation Network,constant nodes from the original paper: ppc89=1 & CK1=etd1=ras1=0
+Arabidopsis thaliana Cell Cycle,replaced ; in node names with _
+Yeast Apoptosis,constant node from the original paper: HK=1
+T-LGL Survival Network 2008,constant nodes from the original paper: TAX=CD45=0
+Treatment of Castration-Resistant Prostate Cancer,replaced . in node names with _
