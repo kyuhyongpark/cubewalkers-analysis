@@ -1,7 +1,3 @@
-import os, sys
-file_path = '../cubewalkers/cubewalkers'
-sys.path.append(os.path.dirname(file_path))
-
 from io import StringIO
 import cubewalkers as cw
 import cupy as cp
