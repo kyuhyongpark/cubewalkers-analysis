@@ -1,75 +1,75 @@
-model name,category
-Apoptosis Network,Signal Transduction (Stress/Damage and Homeostasis)
-Arabidopsis thaliana Cell Cycle,Cell Cycle
-Aurora Kinase A in Neuroblastoma,Cancer
-B bronchiseptica and T retortaeformis coinfection,Infection and Microbiome
-B cell differentiation,Development and Differentiation
-Bordetella bronchiseptica,Infection and Microbiome
-Bortezomib Responses in U266 Human Myeloma Cells,Cancer Drug Response
-BT474 Breast Cell Line Long-term ErbB Network,Cancer Drug Response
-BT474 Breast Cell Line Short-term ErbB Network,Cancer Drug Response
-Budding Yeast Cell Cycle 2009,Cell Cycle
-Budding Yeast Cell Cycle,Cell Cycle
-Cardiac development,Development and Differentiation
-CD4 T cell signaling,Signal Transduction (Immune System Cells)
-CD4+ T Cell Differentiation and Plasticity,Development and Differentiation
-CD4+ T cell Differentiation,Development and Differentiation
-Cell Cycle Transcription by Coupled CDK and Network Oscillators,Cell Cycle
-Cholesterol Regulatory Pathway,Metabolism
-Colitis-associated colon cancer,Cancer
-Cortical Area Development,Development and Differentiation
-Death Receptor Signaling,Signal Transduction (Stress/Damage and Homeostasis)
-Differentiation of T lymphocytes,Development and Differentiation
-EGFR & ErbB Signaling,Signal Transduction (Other)
-FA BRCA pathway,Cell Cycle
-Fanconi anemia and checkpoint recovery,Cell Cycle
-FGF pathway of Drosophila Signalling Pathways,Signal Transduction (Drosophila)
-Glucose Repression Signaling 2009,Metabolism
-Guard Cell Abscisic Acid Signaling,Signal Transduction (Stress/Damage and Homeostasis)
-HCC1954 Breast Cell Line Long-term ErbB Network,Cancer Drug Response
-HCC1954 Breast Cell Line Short-term ErbB Network,Cancer Drug Response
-HGF Signaling in Keratinocytes,Signal Transduction (Other)
-HH Pathway of Drosophila Signaling Pathways,Signal Transduction (Drosophila)
-HIV-1 interactions with T Cell Signalling Pathway,Signal Transduction (Immune System Cells)
-Human Gonadal Sex Determination,Development and Differentiation
-IGVH mutations in chronic lymphocytic leukemia,Cancer
-IL-1 Signaling,Signal Transduction (Immune System Cells)
-IL-6 Signalling,Signal Transduction (Immune System Cells)
-Influenza A Virus Replication Cycle,Infection and Microbiome
-Iron acquisition and oxidative stress response in aspergillus fumigatus,Metabolism
-Lac Operon,Metabolism
-Lymphoid and myeloid cell specification and transdifferentiation,Development and Differentiation
-Lymphopoiesis Regulatory Network,Development and Differentiation
-Mammalian Cell Cycle 2006,Cell Cycle
-Mammalian Cell Cycle,Cancer
-MAPK Cancer Cell Fate Network,Cancer
-Metabolic Interactions in the Gut Microbiome,Infection and Microbiome
-Neurotransmitter Signaling Pathway,Signal Transduction (Other)
-Oxidative Stress Pathway,Signal Transduction (Stress/Damage and Homeostasis)
-PC12 Cell Differentiation,Development and Differentiation
-Predicting Variabilities in Cardiac Gene,Development and Differentiation
-Pro-inflammatory Tumor Microenvironment in Acute Lymphoblastic Leukemia,Cancer
-Processing of Spz Network from the Drosophila Signaling Pathway,Signal Transduction (Drosophila)
-Regulation of the L-arabinose operon of Escherichia coli,Metabolism
-Senescence Associated Secretory Phenotype,Signal Transduction (Stress/Damage and Homeostasis)
-Septation Initiation Network,Cell Cycle
-Signal Transduction in Fibroblasts,Signal Transduction (Other)
-Signaling in Macrophage Activation,Signal Transduction (Immune System Cells)
-Signaling Pathway for Butanol Production in Clostridium beijerinckii NRRL B-598,Metabolism
-SKBR3 Breast Cell Line Long-term ErbB Network,Cancer Drug Response
-SKBR3 Breast Cell Line Short-term ErbB Network,Cancer Drug Response
-Stomatal Opening Model,Signal Transduction (Other)
-T cell differentiation,Development and Differentiation
-T Cell Receptor Signaling,Signal Transduction (Immune System Cells)
-T-Cell Signaling 2006,Signal Transduction (Immune System Cells)
-T-LGL Survival Network 2008,Cancer
-T-LGL Survival Network 2011 Reduced Network,Cancer
-T-LGL Survival Network 2011,Cancer
-TOL Regulatory Network,Metabolism
-Toll Pathway of Drosophila Signaling Pathway,Signal Transduction (Drosophila)
-Treatment of Castration-Resistant Prostate Cancer,Cancer Drug Response
-Trichostrongylus retortaeformis,Infection and Microbiome
-Tumour Cell Invasion and Migration,Cancer
-VEGF Pathway of Drosophila Signaling Pathway,Signal Transduction (Drosophila)
-Wg Pathway of Drosophila Signalling Pathways,Signal Transduction (Drosophila)
-Yeast Apoptosis,Signal Transduction (Stress/Damage and Homeostasis)
+model name,category, PMID
+Apoptosis Network,Signal Transduction (SDH),19422837
+Arabidopsis thaliana Cell Cycle,Cell Cycle,26340681
+Aurora Kinase A in Neuroblastoma,Cancer,26616283
+B bronchiseptica and T retortaeformis coinfection,Infection and Microbiome,2253585
+B cell differentiation,Development and Differentiation,26751566
+Bordetella bronchiseptica,Infection and Microbiome,2253585
+Bortezomib Responses in U266 Human Myeloma Cells,Cancer Drug Response,26163548
+BT474 Breast Cell Line Long-term ErbB Network,Cancer Drug Response,24970389
+BT474 Breast Cell Line Short-term ErbB Network,Cancer Drug Response,24970389
+Budding Yeast Cell Cycle 2009,Cell Cycle,23049686
+Budding Yeast Cell Cycle,Cell Cycle,19185585
+Cardiac development,Development and Differentiation,23056457
+CD4 T cell signaling,Signal Transduction (Immune System Cells),25538703
+CD4+ T Cell Differentiation and Plasticity,Development and Differentiation,30116195
+CD4+ T cell Differentiation,Development and Differentiation,26090929
+Cell Cycle Transcription by Coupled CDK and Network Oscillators,Cell Cycle,18463633
+Cholesterol Regulatory Pathway,Metabolism,19025648
+Colitis-associated colon cancer,Cancer,26446703
+Cortical Area Development,Development and Differentiation,20862356
+Death Receptor Signaling,Signal Transduction (SDH),20221256
+Differentiation of T lymphocytes,Development and Differentiation,23743337
+EGFR & ErbB Signaling,Signal Transduction (Other),19662154
+FA BRCA pathway,Cell Cycle,22267503
+Fanconi anemia and checkpoint recovery,Cell Cycle,26385365
+FGF pathway of Drosophila Signalling Pathways,Signal Transduction (Drosophila),23868318
+Glucose Repression Signaling 2009,Metabolism,19144179
+Guard Cell Abscisic Acid Signaling,Signal Transduction (SDH),16968132
+HCC1954 Breast Cell Line Long-term ErbB Network,Cancer Drug Response,24970389
+HCC1954 Breast Cell Line Short-term ErbB Network,Cancer Drug Response,24970389
+HGF Signaling in Keratinocytes,Signal Transduction (Other),22962472
+HH Pathway of Drosophila Signaling Pathways,Signal Transduction (Drosophila),23868318
+HIV-1 interactions with T Cell Signalling Pathway,Signal Transduction (Immune System Cells),25431332
+Human Gonadal Sex Determination,Development and Differentiation,26573569
+IGVH mutations in chronic lymphocytic leukemia,Cancer,26088082
+IL-1 Signaling,Signal Transduction (Immune System Cells),21968890
+IL-6 Signalling,Signal Transduction (Immune System Cells),21968890
+Influenza A Virus Replication Cycle,Infection and Microbiome,23081726
+Iron acquisition and oxidative stress response in aspergillus fumigatus,Metabolism,25908096
+Lac Operon,Metabolism,21563979
+Lymphoid and myeloid cell specification and transdifferentiation,Development and Differentiation,28584084
+Lymphopoiesis Regulatory Network,Development and Differentiation,26408858
+Mammalian Cell Cycle 2006,Cell Cycle,19118495
+Mammalian Cell Cycle,Cancer,16873462
+MAPK Cancer Cell Fate Network,Cancer,24250280
+Metabolic Interactions in the Gut Microbiome,Infection and Microbiome,26102287
+Neurotransmitter Signaling Pathway,Signal Transduction (Other),17010384
+Oxidative Stress Pathway,Signal Transduction (SDH),23134720
+PC12 Cell Differentiation,Development and Differentiation,27148350
+Predicting Variabilities in Cardiac Gene,Development and Differentiation,26207376
+Pro-inflammatory Tumor Microenvironment in Acute Lymphoblastic Leukemia,Cancer,27594840
+Processing of Spz Network from the Drosophila Signaling Pathway,Signal Transduction (Drosophila),23868318
+Regulation of the L-arabinose operon of Escherichia coli,Metabolism,28639170
+Senescence Associated Secretory Phenotype,Signal Transduction (SDH),29206223
+Septation Initiation Network,Cell Cycle,26244885
+Signal Transduction in Fibroblasts,Signal Transduction (Other),18250321
+Signaling in Macrophage Activation,Signal Transduction (Immune System Cells),18433497
+Signaling Pathway for Butanol Production in Clostridium beijerinckii NRRL B-598,Metabolism,30718562
+SKBR3 Breast Cell Line Long-term ErbB Network,Cancer Drug Response,24970389
+SKBR3 Breast Cell Line Short-term ErbB Network,Cancer Drug Response,24970389
+Stomatal Opening Model,Signal Transduction (Other),27542373
+T cell differentiation,Development and Differentiation,6542429
+T Cell Receptor Signaling,Signal Transduction (Immune System Cells),17722974
+T-Cell Signaling 2006,Signal Transduction (Immune System Cells),16464248
+T-LGL Survival Network 2008,Cancer,18852469
+T-LGL Survival Network 2011 Reduced Network,Cancer,22102804
+T-LGL Survival Network 2011,Cancer,22102804
+TOL Regulatory Network,Metabolism,23171249
+Toll Pathway of Drosophila Signaling Pathway,Signal Transduction (Drosophila),23868318
+Treatment of Castration-Resistant Prostate Cancer,Cancer Drug Response,28361666
+Trichostrongylus retortaeformis,Infection and Microbiome,2253585
+Tumour Cell Invasion and Migration,Cancer,26528548
+VEGF Pathway of Drosophila Signaling Pathway,Signal Transduction (Drosophila),23868318
+Wg Pathway of Drosophila Signalling Pathways,Signal Transduction (Drosophila),23868318
+Yeast Apoptosis,Signal Transduction (SDH),23233838
