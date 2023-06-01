@@ -1,22 +1,25 @@
 # type: ignore
 
+# use latest booleannet from https://github.com/ialbert/booleannet
+# use latest CANA from https://github.com/CASCI-lab/CANA
 import random
 import re
 import time
+from multiprocessing import Pool
 from os import listdir
 
 import boolean2
 import cana.boolean_network as bn
 import cubewalkers as cw
 
-cana_T = 500
-cana_W = 500
+cana_T = 2500
+cana_W = 2500
 
 cw_T = 2500
 cw_W = 2500
 
-bn_T = 100
-bn_W = 100
+bn_T = 500
+bn_W = 500
 cc_models_dir = "./models/corrected_models/"
 output_file = "./data/simple_benchmarks.csv"
 
@@ -58,9 +61,15 @@ with open(output_file, "w") as f:
         print(f"simulating model: {fname.split('.')[0]} . . .")
         ti = time.perf_counter()
         model_cana = bn.BooleanNetwork.from_string_boolean(rules)
-        initial = "".join(random.choices(["0", "1"], k=model_cana.Nnodes))
-        for _ in range(cana_W):
+
+        def worker(_):
+            initial = "".join(random.choices(["0", "1"], k=model_cana.Nnodes))
             model_cana.trajectory(initial, length=cana_T)
+
+        with Pool() as p:
+            p.map(worker, range(cana_W))
+        # for _ in range(cana_W):
+        #     model_cana.trajectory(initial, length=cana_T)
         cana_time = time.perf_counter() - ti
 
         ti = time.perf_counter()
@@ -78,8 +87,14 @@ with open(output_file, "w") as f:
             ti = time.perf_counter()
             model_bn2 = boolean2.Model(text=rules, mode="sync")
             model_bn2.initialize(missing=lambda x: random.choice([0, 1]))
-            for _ in range(bn_W):
+
+            def worker(_):
                 model_bn2.iterate(steps=bn_T)
+
+            with Pool() as p:
+                p.map(worker, range(bn_W))
+            # for _ in range(bn_W):
+            #     model_bn2.iterate(steps=bn_T)
             bn_time = time.perf_counter() - ti
 
         print(
