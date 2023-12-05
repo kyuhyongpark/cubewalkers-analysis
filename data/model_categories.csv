@@ -1,5 +1,5 @@
 model name,category, PMID
-Apoptosis Network,Signal Transduction (SDH),19422837
+Apoptosis Network,Signal Transduction (Stress/Damage and Homeostasis),19422837
 Arabidopsis thaliana Cell Cycle,Cell Cycle,26340681
 Aurora Kinase A in Neuroblastoma,Cancer,26616283
 B bronchiseptica and T retortaeformis coinfection,Infection and Microbiome,2253585
@@ -18,14 +18,14 @@ Cell Cycle Transcription by Coupled CDK and Network Oscillators,Cell Cycle,18463
 Cholesterol Regulatory Pathway,Metabolism,19025648
 Colitis-associated colon cancer,Cancer,26446703
 Cortical Area Development,Development and Differentiation,20862356
-Death Receptor Signaling,Signal Transduction (SDH),20221256
+Death Receptor Signaling,Signal Transduction (Stress/Damage and Homeostasis),20221256
 Differentiation of T lymphocytes,Development and Differentiation,23743337
 EGFR & ErbB Signaling,Signal Transduction (Other),19662154
 FA BRCA pathway,Cell Cycle,22267503
 Fanconi anemia and checkpoint recovery,Cell Cycle,26385365
 FGF pathway of Drosophila Signalling Pathways,Signal Transduction (Drosophila),23868318
 Glucose Repression Signaling 2009,Metabolism,19144179
-Guard Cell Abscisic Acid Signaling,Signal Transduction (SDH),16968132
+Guard Cell Abscisic Acid Signaling,Signal Transduction (Stress/Damage and Homeostasis),16968132
 HCC1954 Breast Cell Line Long-term ErbB Network,Cancer Drug Response,24970389
 HCC1954 Breast Cell Line Short-term ErbB Network,Cancer Drug Response,24970389
 HGF Signaling in Keratinocytes,Signal Transduction (Other),22962472
@@ -45,13 +45,13 @@ Mammalian Cell Cycle,Cancer,16873462
 MAPK Cancer Cell Fate Network,Cancer,24250280
 Metabolic Interactions in the Gut Microbiome,Infection and Microbiome,26102287
 Neurotransmitter Signaling Pathway,Signal Transduction (Other),17010384
-Oxidative Stress Pathway,Signal Transduction (SDH),23134720
+Oxidative Stress Pathway,Signal Transduction (Stress/Damage and Homeostasis),23134720
 PC12 Cell Differentiation,Development and Differentiation,27148350
 Predicting Variabilities in Cardiac Gene,Development and Differentiation,26207376
 Pro-inflammatory Tumor Microenvironment in Acute Lymphoblastic Leukemia,Cancer,27594840
 Processing of Spz Network from the Drosophila Signaling Pathway,Signal Transduction (Drosophila),23868318
 Regulation of the L-arabinose operon of Escherichia coli,Metabolism,28639170
-Senescence Associated Secretory Phenotype,Signal Transduction (SDH),29206223
+Senescence Associated Secretory Phenotype,Signal Transduction (Stress/Damage and Homeostasis),29206223
 Septation Initiation Network,Cell Cycle,26244885
 Signal Transduction in Fibroblasts,Signal Transduction (Other),18250321
 Signaling in Macrophage Activation,Signal Transduction (Immune System Cells),18433497
@@ -72,4 +72,4 @@ Trichostrongylus retortaeformis,Infection and Microbiome,2253585
 Tumour Cell Invasion and Migration,Cancer,26528548
 VEGF Pathway of Drosophila Signaling Pathway,Signal Transduction (Drosophila),23868318
 Wg Pathway of Drosophila Signalling Pathways,Signal Transduction (Drosophila),23868318
-Yeast Apoptosis,Signal Transduction (SDH),23233838
+Yeast Apoptosis,Signal Transduction (Stress/Damage and Homeostasis),23233838
