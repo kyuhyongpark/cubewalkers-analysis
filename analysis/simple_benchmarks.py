@@ -21,7 +21,7 @@ cw_W = 2500
 bn_T = 500
 bn_W = 500
 cc_models_dir = "./models/corrected_models/"
-output_file = "./data/simple_benchmarks.csv"
+output_file = "./data/corrected_models/simple_benchmarks.csv"
 
 with open(output_file, "w") as f:
     f.write(

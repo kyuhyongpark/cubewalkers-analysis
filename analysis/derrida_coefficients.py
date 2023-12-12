@@ -91,7 +91,7 @@ if IMPORT_RULES_FROM_FILES:
     sync_models = {}
     for fname in listdir(models_dir):
         with open(models_dir+fname) as rulefile:
-            name = fname.strip('.txt')
+            name = fname.split(".")[0]
             rules = rulefile.read()
             sync_models[name]=cw.Model(rules)
 else:
