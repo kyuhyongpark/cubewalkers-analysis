@@ -3,5 +3,9 @@ scipy==1.10.1
 numpy==1.24.3
 matplotlib==3.7.1
 setuptools==65.5.0
+pystablemotifs==3.0.4
+pyboolnet==3.0.9
+cana==0.2.0
+Jinja2==3.1.2
 # cupy-cuda11x or other version depending on installed CUDA version
 # git+https://github.com/jcrozum/cubewalkers
